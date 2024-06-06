@@ -1,0 +1,822 @@
+and: 2349
+But: 2123
+also: 1628
+but: 1185
+because: 719
+if: 677
+And: 651
+when: 646
+as: 609
+while: 547
+If: 430
+after: 415
+however: 309
+When: 298
+before: 253
+then: 244
+While: 231
+However: 176
+Although: 173
+though: 165
+In addition: 164
+although: 155
+so: 152
+until: 144
+Meanwhile: 140
+for example: 128
+Still: 125
+since: 123
+Also: 118
+So: 113
+As: 102
+Moreover: 95
+Then: 94
+even though: 80
+Yet: 80
+Indeed: 80
+later: 77
+unless: 76
+After: 72
+or: 70
+Separately: 69
+For example: 68
+As a result: 66
+still: 65
+Because: 64
+for instance: 61
+Instead: 61
+Though: 60
+thus: 57
+In fact: 56
+Thus: 55
+meanwhile: 52
+even if: 52
+Since: 51
+instead: 51
+once: 48
+previously: 39
+Nevertheless: 38
+For instance: 37
+Once: 35
+Even if: 31
+so that: 31
+in turn: 30
+Before: 29
+Or: 28
+in fact: 26
+If then: 25
+indeed: 24
+therefore: 23
+yet: 21
+On the other hand: 20
+as long as: 20
+Finally: 20
+Unless: 19
+By contrast: 18
+Nor: 17
+Besides: 17
+on the other hand: 17
+Similarly: 17
+as soon as: 17
+now that: 16
+Even though: 15
+In other words: 15
+ultimately: 15
+Otherwise: 15
+just as: 15
+partly because: 14
+nor: 14
+nonetheless: 14
+as well: 14
+as if: 13
+if then: 13
+Nonetheless: 13
+Until: 13
+only if: 13
+Rather: 12
+largely because: 12
+thereby: 12
+Later: 12
+too: 12
+finally: 12
+Overall: 11
+in part because: 11
+as a result: 11
+earlier: 11
+In particular: 11
+even when: 11
+That's because: 11
+That means: 11
+What's more: 10
+even as: 10
+In contrast: 10
+Previously: 10
+even before: 10
+otherwise: 9
+except: 9
+only after: 9
+Furthermore: 9
+by contrast: 9
+By comparison: 8
+only when: 8
+Further: 8
+In the meantime: 8
+even after: 7
+Likewise: 6
+Soon: 6
+mainly because: 6
+Now that: 6
+moreover: 6
+thereafter: 6
+Additionally: 6
+nevertheless: 6
+soon after: 6
+in the meantime: 6
+especially if: 6
+specifically: 5
+as though: 5
+just before: 5
+particularly since: 5
+shortly after: 5
+Specifically: 5
+rather: 5
+This means: 5
+further: 5
+Consequently: 5
+separately: 5
+next: 5
+consequently: 5
+in the end: 5
+Earlier: 5
+Since then: 5
+WHEN: 5
+ever since: 4
+Just because: 4
+In short: 4
+simultaneously: 4
+just because: 4
+The reason: 4
+Shortly after: 4
+a day after: 4
+Alternatively: 4
+In the end: 4
+So far: 4
+simply because: 4
+At that point: 4
+especially: 4
+since then: 4
+especially when: 4
+if only: 4
+That compares with: 4
+Even before: 4
+On the contrary: 4
+by then: 4
+shortly before: 4
+IF: 4
+in particular: 4
+if and when: 3
+whereas: 3
+afterward: 3
+at least until: 3
+Accordingly: 3
+Even when: 3
+additional: 3
+shortly thereafter: 3
+particularly if: 3
+The result: 3
+One is: 3
+afterwards: 3
+just when: 3
+Next: 3
+The result is: 3
+Now: 3
+especially as: 3
+At the time: 3
+only because: 3
+by comparison: 3
+As long as: 3
+Hence: 3
+By then: 3
+till: 3
+Among other things: 3
+neither nor: 3
+After that: 3
+Ultimately: 3
+Therefore: 3
+That compared with: 3
+much as: 3
+In the past: 3
+not because: 3
+Just when: 3
+Even as: 3
+Ever since: 3
+As if: 3
+As soon as: 2
+for: 2
+The reason is that: 2
+ultimate: 2
+that means: 2
+Most important: 2
+Conversely: 2
+That caused: 2
+That brought: 2
+At this point: 2
+That means that: 2
+In most cases: 2
+lest: 2
+accordingly: 2
+All told: 2
+Never mind that: 2
+similar: 2
+is a good example: 2
+furthermore: 2
+particularly because: 2
+in other words: 2
+At the same time: 2
+either or: 2
+likewise: 2
+The bottom line is: 2
+particularly as: 2
+The result has been: 2
+Thereafter: 2
+attributed the decline to: 2
+That includes: 2
+As an alternative: 2
+In that case: 2
+first: 2
+Afterward: 2
+minutes after: 2
+even while: 2
+in contrast: 2
+That is why: 2
+eventually: 2
+Essentially: 2
+In the process: 2
+In sum: 2
+long before: 2
+similarly: 2
+The theory is: 2
+Whereas: 2
+Among them: 2
+alternatively: 2
+one day after: 2
+If only: 2
+The bottom line is that: 2
+At that time: 2
+besides: 2
+This compares with: 2
+a month after: 2
+Beyond that: 2
+Eventually: 2
+That's why: 2
+Either or: 2
+As smaller and more powerful computers continue to be the focus of the industry: 1
+That rise came on top of: 1
+only: 1
+The ensuing scandal has helped renew: 1
+18 months after: 1
+This decision resulted in: 1
+At the end of the exercise: 1
+The decision indicated that: 1
+since before: 1
+That action will result in: 1
+Another approach: 1
+One simple approach is: 1
+Say: 1
+That leaves: 1
+The announcement caused: 1
+added: 1
+Among the souped-up indexing strategies: 1
+That makes it: 1
+attributed the improvement to: 1
+What has changed is that: 1
+As that wanes: 1
+What this means is: 1
+the hefty drop last month indicates: 1
+head the list of reasons: 1
+were cited: 1
+That's particularly: 1
+say: 1
+The response rate, more than 63%, allows: 1
+the delay resulted from: 1
+Even still: 1
+In this way: 1
+That would benefit: 1
+Two weeks after: 1
+perhaps because: 1
+the abrupt termination was due to: 1
+just a month after: 1
+A major reason is that: 1
+In effect: 1
+at first: 1
+just 15 days after: 1
+That was modestly higher than: 1
+Aside from the special charge: 1
+soon afterward: 1
+As evidence: 1
+When that happened: 1
+One of these is: 1
+an average of six months before: 1
+About six months before: 1
+overall: 1
+That could make: 1
+especially since: 1
+especially after: 1
+Another is that: 1
+blames that on: 1
+at the end of the day: 1
+To make its point: 1
+The main reason remains: 1
+That change will obviously impact: 1
+That would leave: 1
+Best of all: 1
+That's up from: 1
+This may help explain why: 1
+With all that going for them: 1
+two months before: 1
+That's a clear indication that: 1
+The resulting stockpiling: 1
+The Continental catch: 1
+The latest drop followed: 1
+the sale would result in: 1
+The change will result in: 1
+Simultaneously: 1
+A few hours after: 1
+especially because: 1
+Insofar as: 1
+by the way: 1
+That's the path of reasoning: 1
+To make matters worse: 1
+originally: 1
+additionally: 1
+To tackle the problem: 1
+There is a simple reason for this: 1
+LIN shares weren't hurt much because: 1
+The aim is: 1
+This starts: 1
+In point of fact: 1
+The addition brings: 1
+Meantime: 1
+One step is: 1
+The expansion will expand: 1
+the move is partly aimed at: 1
+the increase in order to: 1
+Only: 1
+The main effect of the ceiling boost: 1
+That trend could increase: 1
+ONCE: 1
+The cuts are necessary because: 1
+That largely reflects: 1
+That may be because: 1
+Especially: 1
+In a similar vein: 1
+That's a big change: 1
+particularly after: 1
+Examples are: 1
+It prompted: 1
+was one reason for the downgrade: 1
+The announcement boosted: 1
+presumably because: 1
+blames: 1
+credits: 1
+That contrasts with: 1
+The aim of the interruption would be: 1
+else: 1
+On the one hand On the other hand: 1
+apparently because: 1
+This time: 1
+that the conquest of Falconbridge could vault: 1
+Another: 1
+That brought in: 1
+essentially: 1
+The difference is that: 1
+The collapse Friday prompted: 1
+His point was: 1
+hence: 1
+This was in contrast with: 1
+That, coupled with lower semiconductor prices and higher semiconductor-depreciation expense, contributed to: 1
+Pressure came from: 1
+has been added to the list: 1
+comparable: 1
+the stake would have given: 1
+The move was meant to keep to boost: 1
+Eight months after: 1
+This includes: 1
+particularly when: 1
+The decline primarily reflected: 1
+When they did: 1
+more than a year after: 1
+At least when: 1
+right after: 1
+The purchases increased: 1
+to save: 1
+through" the bank pact: 1
+The trend drove up: 1
+One reason is that: 1
+Specifications include: 1
+After then: 1
+Worse: 1
+The volume resulted in: 1
+In addition to paying for earthquake and fire damage: 1
+The point is that: 1
+just minutes after: 1
+cited as major factors in the slowdown: 1
+The plunge followed: 1
+The move by the Convention on Trade in Endangered Species, meeting in Switzerland, places: 1
+best: 1
+Adding to that speculation: 1
+At the other end of the spectrum: 1
+the change was related to: 1
+a few weeks after: 1
+its purpose is: 1
+The total borrowing: 1
+That would increase: 1
+Except: 1
+This contrasts with: 1
+Another factor was that: 1
+Altogether: 1
+Another major factor in this positive trend was: 1
+the improvement was a result of: 1
+a few months after: 1
+To do so: 1
+As a result of their illness: 1
+the refinancing should save: 1
+Within minutes after: 1
+as much as: 1
+25 years after: 1
+What this is saying is that: 1
+Last year's figure was down from: 1
+The decline broke: 1
+Another problem was: 1
+Perhaps because: 1
+That cut short depressed: 1
+The competition gives: 1
+The drop indicates: 1
+the additional liquidity should tend: 1
+Shortly thereafter: 1
+The announcement was made because of: 1
+The move largely consigns: 1
+To be sure: 1
+Those changes in its condition meant: 1
+Such spillover effects give: 1
+This portends: 1
+This leads to: 1
+As well: 1
+Along with these factors: 1
+The results compare with: 1
+29 years and 11 months to the day after: 1
+just until: 1
+The same goes for: 1
+That is because: 1
+total: 1
+the gain resulted mainly from: 1
+The increase was due mainly to: 1
+The rationale is that: 1
+The rise resulted from: 1
+Along with the car: 1
+Until then: 1
+seven years after: 1
+As they conferred: 1
+This will give: 1
+The rub is that: 1
+That pace is causing: 1
+Putting it all together: 1
+In the first 25 minutes after: 1
+all: 1
+Among the suggestions: 1
+A price-depressing factor was that: 1
+compared with that: 1
+The gain resulted from: 1
+The one exception to this recent trend was: 1
+Put more simply: 1
+Shortly after that: 1
+One big obstacle is: 1
+True: 1
+the loss resulted from: 1
+The facilities account includes: 1
+The key here is: 1
+that will cinch: 1
+formerly: 1
+in comparison: 1
+Result: 1
+The latest figures compare with: 1
+It is as though: 1
+Partly because: 1
+After the payment: 1
+At first: 1
+Reflecting that logic: 1
+either: 1
+Besides creating joint manufacturing ventures: 1
+That hurts: 1
+Much of the price decline has been blamed on: 1
+Trouble is: 1
+One reason was: 1
+about three weeks after: 1
+That helped persuade: 1
+One reason: 1
+Its popularity was due to: 1
+is an example: 1
+comparably equipped: 1
+One such company is: 1
+a year after: 1
+So what if: 1
+at least when: 1
+That obviously means: 1
+Among them were: 1
+For one thing: 1
+The main reason: 1
+Even then: 1
+Their mission is: 1
+the ruling pushed: 1
+a full five minutes before: 1
+The declaration immediately made: 1
+previous: 1
+Both reflect: 1
+Among the results: 1
+The major reason: 1
+Since that 1976 ruling: 1
+Among these crimes are: 1
+That amounts to: 1
+prices opened higher because of: 1
+That was in addition to: 1
+help explain why: 1
+not only because: 1
+other: 1
+about a week after: 1
+In the meanwhile: 1
+The loss was largely due to: 1
+His doubts stemmed from the fact that: 1
+Other: 1
+That spurs allows and increases: 1
+two years before: 1
+Frankly: 1
+a day or two before: 1
+The next to be cloned: 1
+attributed the decrease in part to: 1
+only as long as: 1
+just days before: 1
+as examples: 1
+Three reasons were pinpointed: 1
+The announcement fueled: 1
+Those rates are up from: 1
+immediately after the reset: 1
+This could mean: 1
+mainly: 1
+Another hurdle concerns: 1
+actually: 1
+This conjures up images of and suggests: 1
+Nearly two months after: 1
+That finding casts doubt: 1
+On top of that: 1
+This put: 1
+This would compare with: 1
+In response: 1
+It's quite a fall: 1
+except when: 1
+the move was necessary: 1
+That purchase doubled: 1
+later on: 1
+That prompted: 1
+so much as: 1
+Carried even further: 1
+The only difference is: 1
+The idea: 1
+That makes them: 1
+That puts: 1
+only two weeks after: 1
+That would make: 1
+The move comes a week after: 1
+a week after: 1
+resulting: 1
+This is partly due to: 1
+That paradox is: 1
+The updated forecast, published Aug. 25, compares: 1
+Add the fact that: 1
+The result was: 1
+soon: 1
+this had to produce: 1
+To begin with: 1
+All the more so when: 1
+Equally: 1
+Combined with that: 1
+That came when: 1
+One was: 1
+just after: 1
+That has been particularly true: 1
+In his return toast to Mr. Nixon: 1
+Shortly afterwards: 1
+It all adds up to: 1
+The idea was: 1
+The most recent example: 1
+This will require us: 1
+Probably the most egregious example is: 1
+Later on: 1
+The promotion helped: 1
+usually when: 1
+In part, prices reflect: 1
+It's fueled by: 1
+The ultimate result came in: 1
+this is one reason: 1
+The development showed that: 1
+those returns compare with: 1
+merely because: 1
+The idea, of course: 1
+So does: 1
+So are: 1
+One reason is: 1
+just eight days before: 1
+That measure could compel: 1
+six years after: 1
+Another concern: 1
+primarily because: 1
+By using them: 1
+The disturbing thing about this abortion issue is: 1
+The reason:: 1
+two weeks after: 1
+Related to that decision: 1
+What's different is that: 1
+The theory: 1
+One big reason: 1
+Her alternative: 1
+On balance: 1
+is one such investment: 1
+the situation is caused by: 1
+fully eight months before: 1
+The big reason: 1
+Of recent note are: 1
+are following suit: 1
+Regardless: 1
+The firmness in heating oil was attributed to: 1
+A problem is that: 1
+cites the case: 1
+More importantly: 1
+Even after: 1
+That indicates: 1
+These include: 1
+The announcement effectively removes: 1
+in the 3 1/2 years before: 1
+The tragedy galvanized: 1
+almost before: 1
+in addition: 1
+After these payments: 1
+in reaction: 1
+He increases: 1
+The Army Corps is cutting the flow of the Missouri River about two weeks earlier than normal because of: 1
+Reasons for the walkout included: 1
+This is that: 1
+Such concrete analysis is likely to lead to: 1
+before and after: 1
+linked the gain essentially: 1
+As in: 1
+So long as: 1
+At least not when: 1
+Which makes: 1
+Only when: 1
+that this would mean: 1
+typically, if: 1
+the consequences are being felt: 1
+Five minutes before: 1
+Almost simultaneously: 1
+The action increases: 1
+This is in addition to: 1
+The results show: 1
+Since 1987: 1
+This is: 1
+This helps explain: 1
+The rise came as: 1
+Typically: 1
+will help provide for: 1
+Their "secret" is that: 1
+reportedly after: 1
+four days after: 1
+Largely as a result: 1
+The flextime may cut: 1
+This left: 1
+By and large: 1
+Taken together: 1
+In any event: 1
+Back when: 1
+just as soon as: 1
+It was the start of: 1
+subsequent: 1
+That meant: 1
+a week before: 1
+The high ratio reflects the fact: 1
+Even while: 1
+sometimes after: 1
+Shortly before: 1
+Shortly before that: 1
+just a day after: 1
+In essence: 1
+Among these: 1
+So too: 1
+One big problem: 1
+two days after: 1
+When and if: 1
+That would help reduce: 1
+among other possibilities: 1
+at least partly because: 1
+compounded the view: 1
+follows: 1
+The two developments leave: 1
+The tip-off came: 1
+Three months after: 1
+she specifies: 1
+In case you have forgotten: 1
+Afterwards: 1
+Because of this and the huge trade gap: 1
+In this case: 1
+On top of all this: 1
+years after: 1
+His resignation follows: 1
+Compared with: 1
+The answer lies both in: 1
+For: 1
+His point: 1
+The increase of $1.25 a share is being made: 1
+The reason is simple: 1
+This suggests: 1
+This forecast was based on: 1
+attributed that: 1
+even then: 1
+top the list: 1
+immediately after: 1
+The revision follows: 1
+It means: 1
+Just five months after: 1
+This activity produced: 1
+That would follow: 1
+The question is: 1
+Stabilizing the derivative markets would tend to stabilize: 1
+in large part because: 1
+Plus: 1
+A consequence of their departure could be: 1
+These efforts wind up creating: 1
+was partly to blame: 1
+From there: 1
+only three years after: 1
+Part of: 1
+almost immediately after: 1
+a reason why Canada's membership in the OAS hasn't been, over the years, an item high on the U.S. agenda: 1
+several months before: 1
+Once triggered: 1
+This caused: 1
+Primarily because: 1
+One day after: 1
+On top of this: 1
+As much as: 1
+Quite the contrary: 1
+shortly afterward: 1
+the growth leads to the conclusion: 1
+even: 1
+About the same time: 1
+very much {similar to: 1
+The reactions stem from the fact that: 1
+Among them is: 1
+just: 1
+less than a month after: 1
+Typical is: 1
+The result is that: 1
+two days before: 1
+To do that: 1
+That was followed by: 1
+In this case, that's: 1
+long after: 1
+a decade before: 1
+would result: 1
+Months after: 1
+Just after: 1
+within a year after: 1
+To avoid this problem: 1
+This program would reduce: 1
+The goal would be: 1
+the shift will mean: 1
+Mayhap this metaphorical connection made: 1
+Such a policy implies: 1
+attributed the increase to: 1
+The coincidence might lead to: 1
+The sharp rise in OTC short interest compares with: 1
+five years after: 1
+again: 1
+The funds are in addition to: 1
+Needless to say: 1
+One essential indicator that they are is: 1
+regardless: 1
+The most likely reason for this disparity: 1
+One way to make the ruble into a major international currency: 1
+After the study: 1
+after such Reconsideration: 1
+its shipments declined as a result of: 1
+only until: 1
+In that way: 1
+The appointment increased: 1
+nearly a year and a half after: 1
+s making proponents: 1
+years before: 1
+some time after: 1
+Soon after: 1
+attribute the mark's surge: 1
+The resulting scandal led to: 1
+At this stage: 1
+That is in part because of: 1
+ will make the dru: 1

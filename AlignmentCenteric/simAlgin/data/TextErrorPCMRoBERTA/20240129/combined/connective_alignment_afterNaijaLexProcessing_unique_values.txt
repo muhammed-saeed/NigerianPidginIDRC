@@ -1,0 +1,3644 @@
+but: 2138
+and: 2063
+because: 662
+if: 595
+If: 470
+But: 468
+when: 438
+as: 422
+also: 377
+still: 353
+wey: 324
+ALIGNMENT Error: 321
+dey: 319
+after: 289
+When: 281
+before: 239
+while: 224
+sey: 211
+di: 175
+so: 141
+na: 140
+until: 132
+come: 120
+While: 113
+though: 108
+wen: 101
+afta: 97
+too: 93
+den: 89
+dem: 89
+After: 79
+Even: 75
+And: 74
+Although: 73
+Text Not Found: 72
+since: 71
+for: 70
+go: 67
+As: 66
+unless: 63
+or: 59
+even if: 56
+even though: 56
+talk: 54
+e: 54
+don: 53
+even: 50
+For example,: 48
+im: 45
+some: 45
+Since: 45
+later: 41
+Because: 41
+to: 37
+once: 37
+one: 37
+Oga: 35
+be: 34
+Even if: 33
+Dem: 32
+no: 32
+make: 30
+o, but: 30
+Also,: 30
+wetin: 30
+PAUL,: 28
+Before: 28
+for example,: 27
+Once: 27
+sey but: 26
+o,: 26
+So: 24
+Meanwhile,: 24
+Mr.: 23
+instead: 23
+get: 20
+con: 20
+dis: 19
+sey,: 19
+plus: 19
+many: 18
+Di: 18
+instead,: 18
+sef: 18
+market.: 18
+In fact,: 16
+whereas: 16
+so dat: 16
+Instead,: 15
+sotey: 15
+except: 15
+dough: 15
+Na: 15
+of: 14
+For: 14
+too,: 14
+:: 14
+yarn: 14
+with: 14
+APOSTLE: 13
+Unless: 13
+oda: 13
+during: 13
+the: 13
+sell: 13
+E: 12
+am.: 12
+although: 12
+now,: 12
+in fact,: 12
+show: 12
+fit: 12
+meanwhile,: 12
+again.: 11
+dey dem: 11
+do: 11
+Even though: 11
+Though: 11
+only when: 11
+wey wey: 11
+market,: 11
+say: 11
+Until: 11
+till: 10
+like sey: 10
+year.: 10
+as long as: 9
+Afta: 9
+even as: 9
+Later,: 9
+So,: 9
+dat: 9
+now wey: 9
+matter.: 9
+people: 9
+as soon as: 9
+bin: 9
+we: 9
+take: 9
+like: 9
+Standard: 9
+even when: 9
+o.: 8
+WHEN: 8
+gree: 8
+just: 8
+Apart one,: 8
+but,: 8
+too.: 8
+bikos: 8
+especially if: 8
+de: 8
+am: 8
+sotay: 8
+mostly because: 7
+Still,: 7
+buy: 7
+most: 7
+kon: 7
+den,: 7
+only if: 7
+well,: 7
+ehn: 7
+sey and: 7
+dey dey: 7
+Even before: 7
+give: 7
+even before: 7
+two: 7
+just as: 7
+akordin: 7
+(wey: 7
+Now wey: 7
+meanwhile: 7
+sey so: 7
+sey sey: 7
+am,: 7
+only after: 6
+only: 6
+before.: 6
+but sey: 6
+per: 6
+same: 6
+matter,: 6
+after,: 6
+I: 6
+Even dough: 6
+Wen: 6
+later.: 6
+first: 6
+now: 6
+na because: 6
+well.: 6
+For example, dey: 6
+later,: 6
+even after: 6
+then: 6
+Besides: 6
+on: 6
+small,: 6
+But wey: 6
+U.S.: 6
+sey na: 6
+at: 6
+big: 5
+especially when: 5
+do.: 5
+analysts: 5
+example,: 5
+by dis time: 5
+even dough: 5
+however,: 5
+money.: 5
+wey sey: 5
+work.: 5
+cause: 5
+say but: 5
+especially: 5
+person: 5
+Den: 5
+pass.: 5
+money: 5
+mainly because: 5
+last: 5
+inside: 5
+despite: 5
+am, but: 5
+Separatedly,: 5
+This: 5
+na sey: 5
+But dey: 5
+join: 5
+just before: 5
+plan: 5
+last,: 5
+time,: 5
+indeed,: 5
+Sey but: 5
+This e: 5
+fall.: 5
+fact,: 5
+one day after: 5
+just because: 5
+but dey: 5
+naim: 4
+well, but: 4
+by: 4
+Just because: 4
+Even when: 4
+increase: 4
+small, but: 4
+business,: 4
+worry: 4
+PAUL, PAUL,: 4
+add: 4
+Treasury: 4
+want.: 4
+But dem: 4
+continue: 4
+wan: 4
+help: 4
+overall,: 4
+dey.: 4
+no dey: 4
+world.: 4
+further: 4
+Also: 4
+from: 4
+naw,: 4
+Why: 4
+money,: 4
+also,: 4
+But sey: 4
+Shortly after: 4
+all.: 4
+just after: 4
+happen.: 4
+even sey: 4
+again,: 4
+Sey: 4
+U.S.A.: 4
+one.: 4
+you: 4
+Person: 4
+The: 4
+so that: 4
+in: 4
+Since den,: 4
+well: 4
+according: 4
+before,: 4
+Apart from one,: 4
+a month after: 3
+Dia: 3
+oder: 3
+next: 3
+there.: 3
+increase.: 3
+reason: 3
+wey dey: 3
+self: 3
+Some: 3
+reduce: 3
+in other words,: 3
+CD,: 3
+still,: 3
+finally: 3
+For example, wey: 3
+naira.: 3
+oyibo: 3
+deir: 3
+but still: 3
+be sey: 3
+that: 3
+water,: 3
+building.: 3
+dey sey: 3
+wey dey sey: 3
+pass,: 3
+push: 3
+government: 3
+Sey if: 3
+company.: 3
+Finally,: 3
+follow: 3
+pass: 3
+bank: 3
+But sey,: 3
+and dey: 3
+by contrast,: 3
+aldough: 3
+agric,: 3
+tay: 3
+top: 3
+True true,: 3
+But di: 3
+Or: 3
+’: 3
+IF: 3
+especially sey: 3
+go,: 3
+down,: 3
+morning,: 3
+anoda: 3
+dollar.: 3
+matter: 3
+thereby: 3
+Even as: 3
+need: 3
+sey na because: 3
+law.: 3
+eventually: 3
+kwik: 3
+quarter,: 3
+reach: 3
+for wey: 3
+under: 3
+least: 3
+judge: 3
+now.: 3
+years.: 3
+country.: 3
+sotay sotay: 3
+times,: 3
+only because: 3
+road,: 3
+any: 3
+sake: 3
+dey,: 3
+how: 3
+Ford: 3
+wey sey,: 3
+see: 3
+especially as: 3
+reduce,: 3
+tell: 3
+wey be: 3
+In: 3
+pay.: 3
+ago, but: 3
+note: 3
+1/2,: 3
+a-...: 3
+do,: 3
+bond,: 3
+separately: 3
+want: 3
+Gandhi: 3
+sey But: 3
+abi: 2
+come.: 2
+especially after: 2
+For example, example,: 2
+small: 2
+fund: 2
+years,: 2
+in turn,: 2
+dem dey: 2
+unlike: 2
+start: 2
+Presido,: 2
+Before,: 2
+ESTOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOP: 2
+now, sey: 2
+But still: 2
+house, but: 2
+answer.: 2
+akordin to: 2
+In addition one,: 2
+example, wey: 2
+more: 2
+make no: 2
+expect: 2
+Before before,: 2
+tey.: 2
+oga: 2
+Di result na: 2
+new: 2
+Almost: 2
+example, sey: 2
+understand: 2
+Among: 2
+as if: 2
+Dat: 2
+Japan: 2
+car,: 2
+Just when: 2
+up.: 2
+well-well.: 2
+end: 2
+at least until: 2
+Japan.: 2
+earlier: 2
+industry: 2
+yet: 2
+use,: 2
+o. But: 2
+collect: 2
+sell.: 2
+wey if wey: 2
+own.: 2
+sey come: 2
+dem.: 2
+(di: 2
+front: 2
+sabi: 2
+in fact: 2
+dey but: 2
+land: 2
+Sen.: 2
+afternoon: 2
+no sey: 2
+programme,: 2
+For example, sey: 2
+Dis cause: 2
+DISCUSSED: 2
+now, now,: 2
+im make: 2
+lawyers: 2
+Federal: 2
+am. but: 2
+England: 2
+For example, don: 2
+Home: 2
+even dey: 2
+sey be,: 2
+but instead,: 2
+di company: 2
+example, some: 2
+different.: 2
+quarter.: 2
+demand,: 2
+dem,: 2
+but to: 2
+na wey: 2
+evriday: 2
+traders: 2
+but wey: 2
+firm, but: 2
+Presido: 2
+Mrs.: 2
+hand,: 2
+WHETHER: 2
+However,: 2
+By time,: 2
+Jehovah: 2
+o, o, o,: 2
+example, di: 2
+level.: 2
+e dey: 2
+tomorrow.: 2
+open: 2
+Awake!: 2
+Wetin: 2
+sey when: 2
+exchange,: 2
+handle: 2
+own: 2
+price,: 2
+all: 2
+so,: 2
+“E: 2
+time, still: 2
+Indeed,: 2
+dere is: 2
+maybe because: 2
+“But: 2
+Manufacturers: 2
+shortly after: 2
+(Naw,: 2
+But e: 2
+But am,: 2
+Where: 2
+just when: 2
+die,: 2
+na come: 2
+investors: 2
+Justice: 2
+Rep.: 2
+buy,: 2
+‘If: 2
+my: 2
+finish.: 2
+us.: 2
+example, dey: 2
+provide: 2
+dia: 2
+dat.: 2
+sey if: 2
+fact, dey: 2
+big,: 2
+eastern: 2
+wen wen: 2
+British: 2
+spoil, but: 2
+okada,: 2
+di di wey: 2
+tradas: 2
+ultimate: 2
+before, before,: 2
+bid,: 2
+Tandem: 2
+For example, now,: 2
+(even though: 2
+not,: 2
+o, afta: 2
+name,: 2
+materials.: 2
+dis compare with: 2
+tin,: 2
+out: 2
+before, but: 2
+pass, but: 2
+stand.: 2
+Another sey,: 2
+Similarly,: 2
+at di end,: 2
+If to: 2
+101, but: 2
+At least,: 2
+London: 2
+e sey: 2
+People: 2
+wey matter,: 2
+And sey: 2
+IBM: 2
+stock: 2
+dey still: 2
+put: 2
+No forget sey: 2
+At dat time,: 2
+million.: 2
+So dey: 2
+Science: 2
+Robert: 2
+still dey: 2
+wahala,: 2
+Nassausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausausau: 2
+Another: 2
+afta wey afta: 2
+look: 2
+long before: 2
+stand: 2
+One: 2
+people, but: 2
+sell, but: 2
+Oakland: 2
+company, instead: 2
+choose: 2
+David: 2
+waka: 2
+afterward: 2
+again: 2
+back.: 2
+No: 2
+report: 2
+hard: 2
+macro: 2
+New: 2
+Di reason sey,: 2
+na dey: 2
+wey di: 2
+people.: 2
+Dem sey: 2
+in di meantime,: 2
+day.: 2
+another: 2
+company,: 2
+five: 2
+time.: 2
+PATROL,: 2
+market, but: 2
+cash,: 2
+forecast: 2
+clear: 2
+us: 2
+money, but: 2
+“Wen: 2
+try: 2
+sey we: 2
+drive.: 2
+today.: 2
+Oga,: 2
+begin: 2
+small.: 2
+How: 2
+talk, but: 2
+what: 2
+wey because: 2
+use.: 2
+After that one,: 2
+Then: 2
+ehn ehn ehn: 2
+sell,: 2
+government.: 2
+appoint: 2
+much: 2
+Also, di: 2
+(but: 2
+odun: 2
+one because: 2
+sotey sotey: 2
+(in fact,: 2
+As long as: 2
+thus: 2
+plenty,: 2
+gi-... gi-...: 2
+In addition,: 2
+But na: 2
+million,: 2
+Congress: 2
+main: 2
+contribute: 2
+our: 2
+find: 2
+afta afta: 2
+talk sey: 2
+work: 2
+wey and: 2
+government,: 2
+But,: 2
+Mandela,: 1
+watch, but: 1
+CANADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAIGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHGHTH: 1
+banks: 1
+further.: 1
+LIN wey don no suffer anyhow because: 1
+For example, Hotel,: 1
+afta wey: 1
+expenditure, till: 1
+Greenspanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpan: 1
+answer, but: 1
+administration: 1
+Zealand: 1
+na im come: 1
+kwik-kwik kwik-kwik: 1
+gben: 1
+na klose be wey tay.: 1
+bank,: 1
+patapata goment: 1
+live, though: 1
+(NAPTOM): 1
+Another thing sey,: 1
+For sey, example,: 1
+so go: 1
+position,: 1
+of one, Oga: 1
+so slide,: 1
+in jitters, addition: 1
+e as: 1
+even 1982, sey: 1
+Tax: 1
+(dem too).: 1
+fight,: 1
+card, Some hours after: 1
+Justin: 1
+October.: 1
+broker,: 1
+train.: 1
+Make: 1
+suitor: 1
+a day, or two before: 1
+wey LTV: 1
+: afta: 1
+1990, but: 1
+Di next wey be wey cloned,: 1
+inside di 3 1/2 years before: 1
+on, I: 1
+eventually,: 1
+1980. Genentech: 1
+For example, coson,: 1
+but later,: 1
+as e dey: 1
+default.: 1
+talk sey one wey part, sey: 1
+Despite come: 1
+sey, sey, year,: 1
+State West: 1
+SmithKline: 1
+East: 1
+soon: 1
+though dey: 1
+CS: 1
+example, for: 1
+support,: 1
+charge.: 1
+interview. di theory na: 1
+world). Apart one,: 1
+am, Apart: 1
+Na make: 1
+ehn ehn: 1
+ah pass,: 1
+but im: 1
+But advise,: 1
+Advisers, be di: 1
+o. dey: 1
+and no: 1
+like rest, dem: 1
+Dis fit mean: 1
+di akordin to: 1
+Di Japan: 1
+weda Newmark: 1
+from but all, one,: 1
+oda na: 1
+leaf.: 1
+only as dey dey: 1
+example, Oga: 1
+just dem before: 1
+as now. wey: 1
+sand.: 1
+dey also dey: 1
+imself.: 1
+Although bifida.: 1
+almost two months after: 1
+so well,: 1
+Till: 1
+up,: 1
+two years before: 1
+: Scott, matter, sey: 1
+matter, never: 1
+face: 1
+and e: 1
+problem, but: 1
+today,: 1
+a.: 1
+care.: 1
+sey because: 1
+na dey wetin: 1
+dat show: 1
+drag be: 1
+lead. True-true,: 1
+around, but: 1
+di plus wey: 1
+(wey (wey be sey: 1
+board, and: 1
+Asher: 1
+Datapoint. after: 1
+Di talk wey don: 1
+spending, and: 1
+billion.: 1
+hold: 1
+afta afta di drop: 1
+Patient: 1
+and life, e: 1
+apart: 1
+Another dey: 1
+why: 1
+expert, value,: 1
+But as: 1
+declassifying: 1
+cash, but: 1
+Another wahala na: 1
+join. still sey: 1
+thousand,: 1
+demand: 1
+Di wey na wey na: 1
+stand top,: 1
+sometimes: 1
+before reach.: 1
+ago, sey Moody: 1
+(Awake!): 1
+Ana: 1
+U.S.,: 1
+wen ground,: 1
+design, but: 1
+Both dey: 1
+1988, but: 1
+am, dey: 1
+Three reasons na e sey :: 1
+when better.: 1
+weird,: 1
+Conn.: 1
+Among dis crimes na: 1
+sey pass, wey sey: 1
+For example, Court,: 1
+and now,: 1
+save: 1
+But September,: 1
+Oga, though: 1
+only dey: 1
+lose.: 1
+dey Georgia Pacific: 1
+o. too: 1
+Tuesday.: 1
+sey rumour dia: 1
+(benjamin) (benjamin) dey (benjamin): 1
+in sey, fact: 1
+Since dat 1976 rule,: 1
+20: 1
+Mexico: 1
+Japanese: 1
+sey di case: 1
+pikin: 1
+Year.: 1
+Dr sey,: 1
+wey one execution,: 1
+Protection,: 1
+but world,: 1
+join treatment, add: 1
+indications: 1
+massive: 1
+I dey: 1
+na of result: 1
+na Opposition, sey: 1
+hall, later: 1
+even sey sotay: 1
+One na: 1
+motor, na: 1
+just like: 1
+na,: 1
+1850.: 1
+Even after: 1
+am. sey: 1
+to unless: 1
+party, na: 1
+pharmacy. sotay “Research o,: 1
+bondholder, collect: 1
+min: 1
+wetin akordin top to: 1
+fact, only: 1
+na explain why: 1
+about,: 1
+outside yarn: 1
+something.: 1
+for ehm case,: 1
+na k-...: 1
+side, sey na: 1
+odas: 1
+dey one week after: 1
+RU-486, one: 1
+am, so: 1
+dat is say: 1
+entitled: 1
+example, get: 1
+contact.: 1
+vice: 1
+strategy, even: 1
+comot,: 1
+LTV,: 1
+sey in di meantime,: 1
+contribution: 1
+company, but: 1
+no only because: 1
+by and operation,: 1
+kwensh: 1
+soil.: 1
+dat is to: 1
+Fisical: 1
+una,: 1
+lesbians: 1
+enter: 1
+sey na mostly because of: 1
+sotay tomorrow.: 1
+Apart one, di: 1
+That one be: 1
+di latest wey economy. dey dey sey im wey na: 1
+economic: 1
+Because of one,: 1
+o, dey.: 1
+This na world. because of: 1
+well, wen: 1
+mama: 1
+im doubt come dey ago, sey sey: 1
+body.: 1
+heat, still: 1
+ehm: 1
+outlets, but: 1
+tabloid,: 1
+a week after: 1
+(dat was, was,: 1
+govnor: 1
+Runkel: 1
+be billion.: 1
+inside dey: 1
+fact, di: 1
+1990.: 1
+evaporate.: 1
+sey business, one: 1
+wey im: 1
+engineer) Also: 1
+dem, pay,: 1
+wey go make: 1
+Togoland, but: 1
+Di move come a week after: 1
+1989.: 1
+dey follow tax.: 1
+for eight months before: 1
+Di other laugh, one Nissan dey: 1
+yu: 1
+Di main reason sey,: 1
+example, Nissan wey: 1
+when That time,: 1
+voter: 1
+too dey: 1
+Remaining: 1
+relationship. But: 1
+generate, o.: 1
+For latest tori na: 1
+na, But: 1
+obey law,: 1
+go. to: 1
+Ever since: 1
+dismiss: 1
+stock) na: 1
+“Di na do, na fit to lead to: 1
+talk. On top one,: 1
+dey dey sey,: 1
+ad-...: 1
+least,: 1
+troway,: 1
+Increasing: 1
+sickness, make dem: 1
+small business dey: 1
+too dem: 1
+per per per: 1
+alias: 1
+Di result sey,: 1
+For example, dem: 1
+Morgan: 1
+gbama, gbama, gbama,: 1
+o, so: 1
+di Aetna: 1
+areas, like sey: 1
+All di more so wen: 1
+film, una: 1
+brag.: 1
+because recovery,: 1
+do, Still,: 1
+In fact, B.C.E.: 1
+boy,: 1
+customers.: 1
+sudden: 1
+front, sey dem: 1
+And dey anything. dey: 1
+Akzo: 1
+dey do: 1
+kpako: 1
+offer: 1
+Hanover, con: 1
+dey dem film,: 1
+Separation now, shalenge: 1
+BIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBIBI: 1
+grow.: 1
+Or sey: 1
+Fujitsu: 1
+Angels: 1
+know, but: 1
+dey come,: 1
+Di tin: 1
+bribe, na: 1
+on top one that sey: 1
+Unisys: 1
+sey dey dey: 1
+dat say: 1
+wen e 1988,: 1
+and wey: 1
+at di end: 1
+Lawson: 1
+dis get say make: 1
+(even sey: 1
+just wey: 1
+sey e go: 1
+na im tax, come: 1
+dis put: 1
+now, o,: 1
+crocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocrocro: 1
+At di end,: 1
+For particular,: 1
+wey sey sey: 1
+naw.: 1
+coating. August,: 1
+dey especially: 1
+At resign. last,: 1
+organization.: 1
+dey instead no: 1
+margins: 1
+Management: 1
+though sey: 1
+To start with,: 1
+For example important,: 1
+For oda,: 1
+dey show: 1
+label,: 1
+usually, if: 1
+Graves.: 1
+One be: 1
+The sey,: 1
+arrange: 1
+12Di: 1
+market. dem di: 1
+so so dey sell: 1
+japanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpan: 1
+lie: 1
+na one such investment.: 1
+yen. Apart: 1
+pass, sey Sony: 1
+Wons: 1
+gree,: 1
+month, gree Mips: 1
+higher: 1
+di situation na because of: 1
+electricity, but: 1
+sey So, one judge: 1
+Na sey incrimination. im: 1
+be di: 1
+Carl but: 1
+The result be: 1
+friend.: 1
+The short sey,: 1
+expand: 1
+Boeing: 1
+dey new: 1
+export.: 1
+hemorrhabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabilabil: 1
+instead sale,: 1
+in o, fact: 1
+Factory,: 1
+wey easing, wey: 1
+Before now,: 1
+candidate, but: 1
+in e fact: 1
+court. far,: 1
+for sey o, be: 1
+if oda: 1
+dey o, na: 1
+1986).: 1
+currency, den: 1
+a day after: 1
+inject: 1
+sey wey de: 1
+further,: 1
+apresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespres: 1
+if,: 1
+Kenneth: 1
+wey go compare with: 1
+Oga dey: 1
+conditioner.: 1
+1991,: 1
+McCaw: 1
+“ demsef.: 1
+liquidity,: 1
+back, but: 1
+be na, di: 1
+small until: 1
+years. Meanwhile,: 1
+restaurant,: 1
+tins, so: 1
+dey akordin sey: 1
+Healthcare: 1
+sey especially dem: 1
+dey dota,: 1
+comment,: 1
+talk di increase na: 1
+IRS, but: 1
+roll,: 1
+so sey: 1
+Bank, sey, na: 1
+Therefore,: 1
+bi.: 1
+For Times, dey: 1
+system, week,: 1
+notify: 1
+Conservatives: 1
+long. Dem: 1
+lock: 1
+possibol: 1
+wey top di: 1
+fall London,: 1
+fact, Kidder: 1
+adults, sey: 1
+1988, years. 1986 dem: 1
+buyers, na: 1
+of gas: 1
+Meanwhile e: 1
+agree: 1
+Sani, o: 1
+waka,: 1
+wey now: 1
+workers: 1
+Also, Presido: 1
+: sey: 1
+dem because: 1
+wey as: 1
+im go ceasefire: 1
+merger, but: 1
+before, come: 1
+of one, come dem: 1
+acquire: 1
+advise: 1
+na court,: 1
+baptize, but: 1
+Kidder. sey na: 1
+except when: 1
+Under: 1
+when dem: 1
+vote: 1
+di move dey necessary: 1
+na sey top, im: 1
+Nacional Nacional: 1
+na if: 1
+advert, instead: 1
+For example, cosmetics,: 1
+In fact, dey: 1
+dey majik majik: 1
+in raise, addition: 1
+India,: 1
+wey wey dere, be: 1
+di Gandhi: 1
+hot, na: 1
+resign,: 1
+committee, na: 1
+get.: 1
+dey na dey dem: 1
+stop.: 1
+“intends: 1
+customers, still: 1
+case,: 1
+market, instead: 1
+on di oda hand,: 1
+minority: 1
+play, but: 1
+gbab: 1
+“: 1
+(stock: 1
+insurance: 1
+wey anoder go: 1
+division.: 1
+growth.: 1
+So one,: 1
+1994. After money,: 1
+only two weeks after: 1
+Texas: 1
+break: 1
+group.: 1
+wey Sey wey: 1
+technology.: 1
+indeed na: 1
+later. Sey: 1
+like,: 1
+di make: 1
+na e out: 1
+budget,: 1
+But rise come as: 1
+nko sey: 1
+year,: 1
+but to contrary: 1
+example : wey: 1
+e but: 1
+sey ogbonge: 1
+no after wey: 1
+crash. Also,: 1
+point: 1
+“Some: 1
+paper.: 1
+yen.: 1
+Grazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazrazraz: 1
+wahala.: 1
+sey $27.90, wey: 1
+dealership,: 1
+so far: 1
+kpatapata: 1
+if metal.: 1
+watch: 1
+Palmero, meanwhile: 1
+increase, while: 1
+million, but: 1
+Especially as: 1
+sey even financing,: 1
+go wey ago,: 1
+o, line, bottom line, sey: 1
+supply, so tax on: 1
+dat property/casuality: 1
+(So far as: 1
+at least ascending. when: 1
+di only difference na sey: 1
+production,: 1
+example, work: 1
+annuity, sey eva,: 1
+di idea: 1
+correct,: 1
+outside.: 1
+sey dis go mean: 1
+sey line, bottom line, na sey: 1
+na im di sell: 1
+1989,: 1
+for di: 1
+anytime: 1
+As in do: 1
+Kurland: 1
+addition,: 1
+drink,: 1
+transaction. before,: 1
+(like Sey (like: 1
+ting if: 1
+September: 1
+Dis make: 1
+strategy,: 1
+theirself, But: 1
+do. go: 1
+Korea.: 1
+For example Coast,: 1
+money, kon: 1
+sey, one,: 1
+But quarter,: 1
+consumers: 1
+For dat same quota-cheaters. time,: 1
+less than a month after: 1
+peace: 1
+based on sey: 1
+preface, wey: 1
+Typical na: 1
+Di put.: 1
+your: 1
+anytin, sey: 1
+after that one,: 1
+na wey same: 1
+di growth dey to di sey: 1
+London wahala: 1
+wey computer agriment,: 1
+three wey wey: 1
+month, but: 1
+insurance, especially: 1
+by force,: 1
+na una correct one.: 1
+be sey world.: 1
+if waka: 1
+very, very dey similar deir to: 1
+classroom, students, especially: 1
+example time, bank,: 1
+agreement,: 1
+as e come: 1
+sey am because of the fact sey: 1
+wahala, come: 1
+for market, to: 1
+agent,: 1
+when temple,: 1
+Na dem put wey: 1
+tear.: 1
+town.: 1
+der.: 1
+wey to still “ dey: 1
+but dey still dey: 1
+stretch,: 1
+two days before: 1
+increasingly,: 1
+1982.: 1
+Chicago: 1
+tings. The bottom line be sey: 1
+sey at di end,: 1
+where: 1
+wey sey name: 1
+kourtyard. do do house.: 1
+ting.: 1
+di dey: 1
+Dem sey,: 1
+one ten before: 1
+billion, but di: 1
+get,: 1
+because,: 1
+dey especially if: 1
+Ekonomicheskaya: 1
+dey so: 1
+sef, na: 1
+Ford. At last,: 1
+change.: 1
+dey guests, dey: 1
+example follow, afternoon,: 1
+hour, den: 1
+agric, no because: 1
+work, though: 1
+bite, come: 1
+and since den,: 1
+E be sey: 1
+front, come: 1
+birth.: 1
+dere: 1
+nko,: 1
+am and after: 1
+wey be sey: 1
+plant.: 1
+corn,: 1
+grow,: 1
+even be: 1
+odour: 1
+dey party,: 1
+good: 1
+Upon: 1
+after dis one,: 1
+Germany, wetin: 1
+research.: 1
+dey e dey dey suffer: 1
+flow,: 1
+Lincoln: 1
+Di happen be sey,: 1
+(as land: 1
+opposition: 1
+oders,: 1
+bill, but: 1
+property: 1
+1989, na: 1
+dey dis limit, one wey na: 1
+dey, so: 1
+illegal.: 1
+specifically: 1
+Joe: 1
+sey jw.org: 1
+(weighborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborbor: 1
+wetin do na dey dey: 1
+currency.: 1
+dey move: 1
+kpata-kpata sterling: 1
+credentials, and: 1
+in di meantime dey: 1
+but move,: 1
+dollar: 1
+na:: 1
+to do,: 1
+warnin: 1
+every: 1
+plenty come: 1
+up, if: 1
+if dey: 1
+“Di pass,: 1
+too don: 1
+sales,: 1
+Den chamo,: 1
+Ltd,: 1
+wey management, go: 1
+jibiti, so: 1
+criminal: 1
+Since dey: 1
+one come: 1
+flagship.: 1
+since when: 1
+for na one because: 1
+okokokokokokokokokokokokokokokokokokokokokwa, but: 1
+e production,: 1
+life.: 1
+Claudio sista,: 1
+When dey: 1
+industry. example,: 1
+o, o, even: 1
+dey dem disappear. dey market,: 1
+na im do, sey: 1
+condition, again.: 1
+but house, too,: 1
+dey dey stabilize dem doubol market, dey dey dey stabilize: 1
+AST: 1
+affect: 1
+ground.: 1
+play,: 1
+Inc,: 1
+instead out,: 1
+Dallas: 1
+: meanwhile,: 1
+dey, but: 1
+come make: 1
+rain: 1
+half.: 1
+contractor.: 1
+wey ah: 1
+na full dey wey: 1
+From dere,: 1
+business, But: 1
+“E tey: 1
+gbab dey: 1
+wey oyibo, oyibo,: 1
+fact, sey,: 1
+Gorbachev, and: 1
+later): 1
+for sey e: 1
+Cal.: 1
+goment dey: 1
+Kroger: 1
+debut.: 1
+gamble.’: 1
+language. talk: 1
+dey dey speak, so: 1
+wey Plant, sey: 1
+sey, Black: 1
+APOSTLE PAUL, wey: 1
+APPROPRIATE:: 1
+grant, but: 1
+time, dey: 1
+For example, talk,: 1
+year, na: 1
+41: 1
+only three years after: 1
+wey to: 1
+As law,: 1
+almost immediately after: 1
+speculation: 1
+still yarn: 1
+show.: 1
+Mitsukoshi: 1
+Ponishment: 1
+October, but: 1
+shief, shief: 1
+afta,: 1
+Na im make: 1
+enthusiasm: 1
+to representate: 1
+reason why Canada U.S. membership for of OAS na wey be, over di years, one item high on for U.S. agenda: 1
+na also: 1
+coll: 1
+River. Army dey dey cut for dey wey di down river wey two weeks earlier, wey dey because of: 1
+who: 1
+start.: 1
+na retirement,: 1
+am dey: 1
+quarters.: 1
+OMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOMOM: 1
+before wey: 1
+for quarter, for: 1
+Trust Trust Trust: 1
+inside, im: 1
+wahala: 1
+di dey compare wit: 1
+chuku-shuku: 1
+Also dey dem: 1
+ambassador: 1
+Russia.: 1
+Co,: 1
+example, may: 1
+well, good.: 1
+Before happen,: 1
+Textiles, Textiles,: 1
+dey sure evritin to: 1
+karry: 1
+and,: 1
+Renaissance: 1
+evritin: 1
+market. wey: 1
+sidelines.: 1
+na wey be market,: 1
+by comparison,: 1
+appeal.: 1
+net: 1
+Di but: 1
+Apart sey from: 1
+dem dem: 1
+dey dey go,: 1
+city, but: 1
+memoranda, because: 1
+wey 1988, be: 1
+gb-...: 1
+Ruder,: 1
+market, like wahala,: 1
+warm. Upon: 1
+example, take: 1
+Di result: 1
+and wen: 1
+e sey be,: 1
+wey year. year.: 1
+nidol, nidol, nidol.): 1
+“ABEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEV: 1
+na make: 1
+growth, sey,: 1
+future.: 1
+thereafter: 1
+legal: 1
+simi-simi-simi-simi-simi-simi-simi- simi-: 1
+tin.): 1
+for dey England) wey get: 1
+England (wey: 1
+main wey tin make wey different be: 1
+century. anyhow like.: 1
+well wey: 1
+suit.: 1
+example, Southland: 1
+One day after: 1
+England Bank): 1
+one way to turn am dem am to wey big international currency: 1
+But pay,: 1
+After di study,: 1
+York, but: 1
+enter,: 1
+actors: 1
+baby.: 1
+gbo,: 1
+their: 1
+but pesticide,: 1
+borough, because: 1
+ogogoro,: 1
+then,: 1
+producer.: 1
+For example, affect,: 1
+deals, Sennacherib,: 1
+Brunswick,: 1
+(NLC), “Dem: 1
+July: 1
+Wraph: 1
+one side, di: 1
+$20.Di wey dey year, year, give $20.Di: 1
+If na: 1
+Dem still: 1
+For example stocks,: 1
+market, still: 1
+dey 196% we: 1
+on top one, dis one,: 1
+Affairs.: 1
+in addition di: 1
+addition, Hadson: 1
+na compare di: 1
+pretax: 1
+chips.: 1
+confirm.: 1
+sey licence, come make de: 1
+Another add sey: 1
+e dey ah. o,: 1
+tax).: 1
+dem Moody: 1
+Inc, front.: 1
+almost before: 1
+gain, but: 1
+o, But: 1
+naira,: 1
+example, now, now,: 1
+mortgage wey borrow.: 1
+May bi sey sey go: 1
+afta, don: 1
+say because: 1
+hence: 1
+session.: 1
+White oyibo: 1
+one. as dey: 1
+pool,: 1
+But today,: 1
+boy but: 1
+25. But: 1
+3/8, am: 1
+wey dey export,: 1
+do, dem plus: 1
+instead add,: 1
+after dis Reconsideration: 1
+if only: 1
+kuna.: 1
+wey Senator: 1
+legislation,: 1
+sotay sotay gain, sotay: 1
+o, because: 1
+vote. top one, of: 1
+in that way,: 1
+market. even: 1
+dem Bethlehem,: 1
+dem sell dem market, dey dey sey: 1
+Williams, dey: 1
+still world,: 1
+go and bill, meanwhile: 1
+For example, am,: 1
+in particular,: 1
+“If: 1
+for Xray, while: 1
+only until: 1
+wey e happen, sey: 1
+collect.: 1
+contest, come: 1
+kobo, and: 1
+example, games, acquaintd: 1
+plus sey: 1
+ad-... ad-...: 1
+tin, indeed: 1
+na rest, di: 1
+capitalism,: 1
+carry: 1
+for govnor.: 1
+wey energy,: 1
+vote, while Republicans: 1
+Richard: 1
+basket: 1
+Even sey: 1
+7/8,: 1
+midday,: 1
+Colossians: 1
+million. sey: 1
+sey even: 1
+within: 1
+FIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFI: 1
+sey, wetin: 1
+edgy: 1
+excessive: 1
+research,: 1
+For small, dey: 1
+overworking, eidol,: 1
+before, na: 1
+cocoa, But: 1
+new wey: 1
+lawmakers: 1
+life, na: 1
+dey collect: 1
+earlier.: 1
+conclude,: 1
+stake, plus Delmed wey: 1
+deir dey dey: 1
+call: 1
+ANC.: 1
+almost a year and dey half after: 1
+ITT: 1
+announce: 1
+offset,: 1
+personnel, But: 1
+some time after: 1
+dey like: 1
+imsef, but: 1
+hard,: 1
+tin, but: 1
+Importation: 1
+sey, so: 1
+wey (tabito): 1
+no go allow the am: 1
+because of am, dat: 1
+medicine, and: 1
+leg,: 1
+but dey,: 1
+dey make proponents: 1
+also di: 1
+Alandslide: 1
+limbo).: 1
+inside, call, di: 1
+Coniston,: 1
+sey o, on: 1
+now, top: 1
+(Court): 1
+CBS sey: 1
+im dey: 1
+record,: 1
+for store, wey: 1
+na enforcement, im: 1
+now. Apart: 1
+to weda: 1
+APOSTLE DESSEOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOP DESSEOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOP con sey: 1
+despite if: 1
+BIBI,: 1
+DISINECTION: DISCUSSED:: 1
+Co. unit, plus: 1
+alone,: 1
+cash: 1
+whereas sey: 1
+sey na one reason: 1
+also, na: 1
+na different dey ground, come: 1
+(as afta: 1
+restructuring,: 1
+wey see: 1
+say wey: 1
+oppose: 1
+Radio: 1
+mainframe.: 1
+kwik-kwik kwik-kwik kwik-kwik: 1
+Steve: 1
+Inc.: 1
+power, but: 1
+As a result,: 1
+wey dis oga one dis: 1
+billion): 1
+stake.: 1
+Blandings': 1
+Social: 1
+still you: 1
+Tina: 1
+Steel, but: 1
+shed: 1
+and o: 1
+own, even: 1
+dey when: 1
+di result: 1
+ever since: 1
+Harry: 1
+especially because: 1
+in terrorism, addition: 1
+but out,: 1
+talk di mark don increase: 1
+differential, but: 1
+1988,: 1
+fact, e never: 1
+Soon afta: 1
+Di happen one lead to: 1
+dem also dem: 1
+Instead na: 1
+bring: 1
+ad,: 1
+but Asia,: 1
+At dis stage,: 1
+head. So wey far: 1
+to sharp increase wey OTC dey make akordin to: 1
+go after,: 1
+na Another sey: 1
+to to how: 1
+index.: 1
+dey, na sey: 1
+go we: 1
+Five years after: 1
+For wen o, so: 1
+forgive: 1
+wey if dey: 1
+naira, im: 1
+increase, afta: 1
+Suggests, dis: 1
+Milton: 1
+so.: 1
+Just after: 1
+within one year after: 1
+dis na one, because one,: 1
+sey, plus too,: 1
+editorial, but: 1
+even dey when: 1
+di pozishon sama: 1
+go result.: 1
+down, but: 1
+sey don: 1
+eye: 1
+Before, am: 1
+matter, doh: 1
+only get: 1
+One after: 1
+nite;: 1
+for dem as: 1
+quick before: 1
+But naw,: 1
+dey. Na: 1
+tey worm): 1
+Come join hand,: 1
+One wey: 1
+go Any event do,: 1
+Delicious, But: 1
+External: 1
+goal, so: 1
+to avoid dis wahala,: 1
+collect,: 1
+domestic: 1
+well, because: 1
+PaineWeber, ehn: 1
+sey, But: 1
+am, even im: 1
+for wayo, example,: 1
+thing, owe, sey: 1
+Di plan go na: 1
+quarter. because: 1
+barn. But: 1
+Summerland,: 1
+dey way go sey: 1
+low: 1
+one vital indication wey they be, be: 1
+69,980,: 1
+talk am. dey sey: 1
+Di oda oda oda oda: 1
+fall, but: 1
+na sey,: 1
+Di promotion help: 1
+dey sey na Presido: 1
+(though: 1
+treatin,: 1
+wey am: 1
+yahoo-yahoo.: 1
+-: 1
+out.: 1
+wey dey even: 1
+dey well because: 1
+Wetin be dem. more?: 1
+But put: 1
+to sey Mayor,: 1
+sophisticated: 1
+dey Also,: 1
+GMAC): 1
+krokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokrokro: 1
+Soviet: 1
+This go need us: 1
+gragra,: 1
+Some of dey price dey: 1
+say so: 1
+dey but dey lose, dey: 1
+scientists: 1
+how na: 1
+gas.: 1
+dem people wahala, inside plus disaster,: 1
+wey wey now, sey: 1
+part of: 1
+prosecutorial: 1
+but again.: 1
+but family.: 1
+to im say: 1
+sey seek,: 1
+wey call dey: 1
+study: 1
+dey meanwhile: 1
+plus,: 1
+parent, But: 1
+dem dey matter,: 1
+2009, while: 1
+optimistic: 1
+just dey dey as: 1
+say if: 1
+1904,: 1
+mirakle.: 1
+everyday. im: 1
+survive. When: 1
+wey na dey wey: 1
+dey But: 1
+for example, example,: 1
+in di process,: 1
+(when: 1
+imagine.: 1
+mean: 1
+after top: 1
+na'massive: 1
+Na be: 1
+wey dey halt,: 1
+im increase, sey Prime: 1
+As e be sey: 1
+goods.: 1
+Blue: 1
+one week before: 1
+7,440.: 1
+and sabi: 1
+Di result sey: 1
+example, dey fertilized: 1
+trowey.: 1
+Phillips: 1
+measure: 1
+na one liability, wey: 1
+come, sey dey: 1
+Shortly before: 1
+one big wahala: 1
+don after: 1
+But million): 1
+sey, on dey dey waka,: 1
+normal because: 1
+and one, top one, dey sell small-small: 1
+among dis: 1
+fall from: 1
+side.: 1
+thus,: 1
+for mixed, example,: 1
+stake,: 1
+number,: 1
+oda sey: 1
+na im September,: 1
+but protection,: 1
+sey dey but: 1
+gbi-... gbi-... gbi-... gbi-...: 1
+United: 1
+just one day after: 1
+year. In essence,: 1
+value.: 1
+go help carry on: 1
+Gardens. still dey: 1
+Wey: 1
+product.: 1
+Since 1987, interstatement,: 1
+But compared: 1
+product: 1
+This be: 1
+na cause: 1
+Five minutes before: 1
+a.m.: 1
+“Den: 1
+By and large,: 1
+Government’, na: 1
+na talk.: 1
+D.C.E. homicide, oder: 1
+At dis future. point,: 1
+time, tan: 1
+Almost time,: 1
+dem am. to: 1
+(wey before). heavy silva sey bi: 1
+o, n: 1
+by sey o,: 1
+company don: 1
+na wen wey: 1
+investment, di high dey market: 1
+sef. sey even: 1
+wey dem: 1
+dem na dey top wey: 1
+issue, still: 1
+do o,: 1
+Board,: 1
+text, and: 1
+ask. no: 1
+blow: 1
+am, and: 1
+I,: 1
+wit: 1
+Scorpion, wey: 1
+insidesea,: 1
+PAUL, APOSTLE: 1
+fit di most important be na: 1
+labor,: 1
+example, Campbell: 1
+well. so: 1
+settle, but: 1
+propaganda: 1
+Propaganda: 1
+same wey: 1
+wey make: 1
+overlap, all add dey to: 1
+pay,: 1
+administrator. because: 1
+editor,: 1
+tax, plus: 1
+alternatively,: 1
+This help us: 1
+yaa sey, sey: 1
+spermicide,: 1
+UALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUAL: 1
+example, British: 1
+but firm,: 1
+patient. after: 1
+wey top wey: 1
+One afta: 1
+Four days after: 1
+happen, happen.: 1
+In di process,: 1
+competitors: 1
+play: 1
+size: 1
+talk dey dey sey: 1
+learn: 1
+left: 1
+accordingly.: 1
+So “shadow: 1
+na jolly,: 1
+Deir succeed. Deir secret na sey: 1
+plan,: 1
+American: 1
+Gate.: 1
+Besides sey: 1
+wen top sey we don: 1
+wey sey dia: 1
+lite, so: 1
+for example, coolant,: 1
+logical,: 1
+1970,: 1
+because instead,: 1
+talk sey reduce sey: 1
+On Jr. January: 1
+example, even: 1
+also well: 1
+sey, be before, sey, world: 1
+for now, wey: 1
+Area, am: 1
+Warner: 1
+sey for e months,: 1
+dey plus million,: 1
+of be Corp, top dey: 1
+channel.: 1
+cents.: 1
+plus million, plus: 1
+“Di e show: 1
+o, wey im na: 1
+) Flex time dey dey cut: 1
+Transportation: 1
+Sey as: 1
+True, true,: 1
+quick quick like: 1
+Dis give: 1
+ago, still: 1
+Men: 1
+“Borbonbonbon”, “Borbon!”: 1
+folklore. as: 1
+attack.: 1
+at di end e: 1
+move.: 1
+hard. true,: 1
+CD, instead: 1
+The answer dey wey for: 1
+election,: 1
+En word sey:: 1
+liquidated,: 1
+sell market,: 1
+fail, but: 1
+dey spirits, especially: 1
+For example years,: 1
+flamboyant, say: 1
+di but time, wey dem: 1
+fact, wey: 1
+3/4,: 1
+worse: 1
+e,: 1
+soon after: 1
+sey wahala? wetin: 1
+if gader: 1
+Conversely,: 1
+if wey: 1
+e why be sey be: 1
+time, come: 1
+dey dem wey: 1
+main offering,: 1
+flamboyant, but: 1
+o, o.: 1
+sey dem: 1
+31.: 1
+e be period, shief: 1
+But get: 1
+Dem dey di $1.25 wey sell share. dey dey: 1
+share.: 1
+like and: 1
+if sey dey dey dey: 1
+sey, do,: 1
+dis mean: 1
+dey gba Ehm dey: 1
+Propylenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelenelene: 1
+Alfred: 1
+“Make say: 1
+(even: 1
+When and if: 1
+stock, but: 1
+Di go,: 1
+na do come: 1
+come small: 1
+“Na: 1
+be sey wey: 1
+im go follow: 1
+matter, make: 1
+Antonia,: 1
+Lloyd own: 1
+matter, sey e: 1
+dey bifida.: 1
+two days afta: 1
+armourage,: 1
+imsef e di: 1
+raise: 1
+e now. so, be UAL: 1
+plan, and: 1
+top di list.: 1
+candidates: 1
+sey Sea,: 1
+Whether: 1
+even den,: 1
+many make: 1
+among other rackets, tins: 1
+shore.: 1
+water.: 1
+Lloyd: 1
+naw, sey: 1
+sey oda,: 1
+direct: 1
+Nekoosa,: 1
+Di idea na: 1
+o, na: 1
+1/4,: 1
+wey don na: 1
+e mean: 1
+cancel: 1
+Just five months after: 1
+But talk: 1
+dem but: 1
+if and wey: 1
+Poland: 1
+Pentagon,: 1
+but most recent one: 1
+market).: 1
+manufacturing,: 1
+as price, per: 1
+Average.: 1
+England, towa, wey: 1
+doh: 1
+bell.” bell.: 1
+road: 1
+make still wey: 1
+semicircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircircir: 1
+rupee,: 1
+Inc. On di left hand,: 1
+comot: 1
+AG, afta: 1
+navigation: 1
+dividend, na: 1
+compass.: 1
+dem fall: 1
+This go help reduce: 1
+among other possibilities.: 1
+mandatory: 1
+at least to because: 1
+di oda hand, only: 1
+dey But for: 1
+shain, and: 1
+For one,: 1
+But sell,: 1
+norbert: 1
+GSX: 1
+mostly sey: 1
+Island. Dem: 1
+1993.: 1
+o, So: 1
+all. head, dey: 1
+here.: 1
+di business, plus: 1
+di two progress leave: 1
+e resign afta: 1
+Sey sey wey: 1
+broker-dealer: 1
+but week,: 1
+e dey matter,: 1
+X: 1
+Three months after: 1
+she tell sey: 1
+dey escape, she: 1
+she: 1
+na how: 1
+fact, Ms.: 1
+: But: 1
+again, oda people: 1
+On top one, all dis one,: 1
+vex.: 1
+sef sef dey: 1
+but work,: 1
+late.: 1
+money, na: 1
+anyhow, go be,: 1
+society.: 1
+patapata,: 1
+radiation,: 1
+This mean: 1
+Lawyers: 1
+sey bad: 1
+At dat point,: 1
+Deltec: 1
+'and: 1
+na name". because: 1
+sey wetin buy, sey: 1
+make, but: 1
+Petrie,: 1
+flash: 1
+(in case you don forget),: 1
+mysef,: 1
+Kodak: 1
+law, den: 1
+CANCHIKOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOPOP: 1
+diaries.: 1
+name drop di: 1
+Body.: 1
+Cleveland,: 1
+but name.: 1
+“As long as: 1
+na dat one make: 1
+to tackle di problem, na: 1
+community: 1
+Una get one small wey wey dis:: 1
+Dem society, sey: 1
+For example 2018,: 1
+wey sey sey matter.: 1
+Oga, im: 1
+count,: 1
+igbo igbo: 1
+MGMUA,: 1
+interested, but: 1
+meanwhile, sey,: 1
+dem Dem: 1
+do. many: 1
+lyre,: 1
+and all: 1
+to Kingdom Hall, only small: 1
+problem, and: 1
+but now,: 1
+years, but: 1
+After time,: 1
+e ogbonge: 1
+o, o, sey: 1
+1986.: 1
+wey if: 1
+sey, China wey: 1
+because of dis, and di huge trade year, gap: 1
+but dis sey,: 1
+From: 1
+come opera, di: 1
+wey wey market, one: 1
+John: 1
+for don: 1
+sey dis: 1
+cost: 1
+ehn case,: 1
+Mostly,: 1
+fact, throughout.: 1
+mark. one,: 1
+pikin,: 1
+price, fact, fact,: 1
+especially, Mr.: 1
+before, so: 1
+example, 1990,: 1
+na wey be e so: 1
+And and: 1
+wella wey: 1
+For no dem: 1
+so small,: 1
+reccession, but: 1
+suffer, further,: 1
+be o, we sey: 1
+In ago. return toast to Mr. Nixon,: 1
+small after time,: 1
+Mancuso: 1
+Co. To: 1
+govnor, because: 1
+to make di worse,: 1
+wey market. still: 1
+For year,: 1
+hand: 1
+in one, fact: 1
+So, U.S.: 1
+Another one be sey: 1
+be o.: 1
+Somalia?: 1
+Sudan.: 1
+HEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHE: 1
+dey cheating, make dey: 1
+Naw: 1
+di main effect of di ceiling for: 1
+Kuwait.: 1
+But Geneva,: 1
+Beijing. still dey: 1
+one step na: 1
+di move na 1997. di to: 1
+di increase wey na to: 1
+army.: 1
+true-true,: 1
+there: 1
+e start: 1
+investment,: 1
+Grand: 1
+dem Separation,: 1
+best be sey: 1
+barrel.: 1
+wey be amount: 1
+na year,: 1
+As e plant. be: 1
+example, Western: 1
+wey dey up reach: 1
+Oga, people: 1
+owe,: 1
+example, one: 1
+open, plus Illinois: 1
+label: 1
+wey But: 1
+weeks) day.: 1
+appropriate.: 1
+wey AIW,: 1
+broadcasting,: 1
+Westinghaus: 1
+This fit help explain why: 1
+na be sey,: 1
+one be: 1
+sey dat mean: 1
+Snow,: 1
+conner: 1
+For di now,: 1
+dey dey disk: 1
+Sometimes,: 1
+ehm ehm ehm: 1
+o, sey o,: 1
+So plan.: 1
+investors,: 1
+dem even show: 1
+relief, but: 1
+PLC, but: 1
+na but: 1
+lunch, but: 1
+wey square,: 1
+trouble.: 1
+Dinkin, tins.: 1
+and for: 1
+Kan: 1
+with all wey go top am,: 1
+fall,: 1
+cold,: 1
+sey sey dey slow, while: 1
+take eye dey: 1
+consumer: 1
+be.: 1
+based: 1
+years, e na big shift: 1
+before before,: 1
+e be money, e: 1
+N.Hah: 1
+mtschew but least,: 1
+e because: 1
+am before: 1
+Co, so: 1
+1978.: 1
+bikos inflation, plus: 1
+things.: 1
+sell. dem dem dey: 1
+deal.: 1
+example, underwriter: 1
+higher,: 1
+Apart one, dem: 1
+shebi: 1
+ground, even: 1
+but say,: 1
+Na we dey dey dey reason: 1
+in di meantime.: 1
+season: 1
+wey Victor Brand: 1
+since den, den,: 1
+projects.: 1
+even sey special: 1
+ni,: 1
+for matter,: 1
+today, instead: 1
+di difference na sey: 1
+future, but: 1
+Tro: 1
+Noranda: 1
+di new drop follow: 1
+di sale go result in: 1
+Di change go take effect: 1
+yeye,: 1
+wey Meanwhile, di: 1
+anybody: 1
+kollect.: 1
+don dey add join di list.: 1
+increasingly: 1
+Saatchi wetin: 1
+example dere, don: 1
+reasign: 1
+Insofar, as: 1
+By di way,: 1
+“Di kon am, di: 1
+3,7%,: 1
+Demand: 1
+always: 1
+Nicholas: 1
+law,: 1
+dey reduce: 1
+modern,: 1
+as dem: 1
+parts, di: 1
+wey e: 1
+Dis dey motor. make: 1
+na UX: 1
+plant. one,: 1
+wey sey, wey wey dey cometribution cometribution price wey sey, cometribution wey cometribution dey cometribution de cometainer, go go: 1
+IUD, wey IUD,: 1
+Further,: 1
+example, picture, silva.: 1
+forward time.: 1
+wey dia dia hand,: 1
+as on,: 1
+1,920,: 1
+Elephant: 1
+promotion.: 1
+bill: 1
+di result be: 1
+dey as: 1
+Germany.: 1
+on di oder hand, Evans,: 1
+sey dem dem wey Christchurch Canada. go build: 1
+month.: 1
+ship: 1
+ask: 1
+case.: 1
+Andersson: 1
+but 1989,: 1
+dem dey o,: 1
+e sey wey: 1
+all privatisation, of: 1
+APOSTLE wey: 1
+na attempt, also: 1
+action, but: 1
+subsidy, but: 1
+for U.S.,: 1
+dem come Friday, Friday,: 1
+because sey,: 1
+complete.: 1
+morning.: 1
+Honduras: 1
+meanwhile, come: 1
+be but: 1
+one big reason be: 1
+Research, so: 1
+Among dem: 1
+na business, plus: 1
+hand.: 1
+alternative, but: 1
+im too.: 1
+Utah,: 1
+result,: 1
+Western,: 1
+get advert support.: 1
+dey na because: 1
+stations: 1
+because ultimatum,: 1
+di theory sey: 1
+now, wey: 1
+Pressure come from: 1
+Di don for: 1
+For example example,: 1
+im na: 1
+because me: 1
+Dat one na: 1
+Dis one end. different from: 1
+na dis: 1
+unasef.’ unasef.’ But: 1
+market. But: 1
+na na wey: 1
+time: 1
+especially sey beta: 1
+For eye, example,: 1
+one, also: 1
+Financial: 1
+dem na sey: 1
+head, sey: 1
+dey sey Nicaragua): 1
+but times,: 1
+na just: 1
+For example, time,: 1
+ONCE: 1
+papa: 1
+reform: 1
+wetin dey mama, more,: 1
+e sey na because: 1
+instead sey: 1
+dey same dey: 1
+Congo Congo: 1
+Congo: 1
+out): 1
+una dey una: 1
+Angeles, call dem: 1
+dat law, is,: 1
+o, infact: 1
+sandwich: 1
+short, troway: 1
+market, anytin. a: 1
+farmers.: 1
+chuku-shuku.: 1
+wey most people, of: 1
+Among di souped up dey index strategy na: 1
+wey don: 1
+Say: 1
+one simple approach na: 1
+Anoda one sey: 1
+di end, dis: 1
+Big: 1
+wey now folkloria.: 1
+psychology, also: 1
+dey sey dey: 1
+ABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABAABA: 1
+if and: 1
+oda bond,: 1
+for instance,: 1
+For example, insurance,: 1
+term one,: 1
+expire,: 1
+examination, come: 1
+money, na because: 1
+class, addition maybe: 1
+as a result: 1
+mortality: 1
+For example, o,: 1
+generally, and: 1
+For where: 1
+773/8,: 1
+di oda side, Symbol: 1
+side,: 1
+example, 1987, SH: 1
+wey im wey: 1
+sing. come As: 1
+short,: 1
+tink sey: 1
+e afterward: 1
+ELEGATE: 1
+dey while: 1
+mind, even: 1
+MIPS.: 1
+dis dey: 1
+36,: 1
+flight. Continental dey: 1
+blame: 1
+believe: 1
+fur.: 1
+start di list of reasons.: 1
+talk dis go sey: 1
+wey be am: 1
+sey, na because: 1
+and sey,: 1
+Two weeks after: 1
+di wey dey last month show: 1
+specifically,: 1
+December, wetin e mean be: 1
+record.: 1
+Dis one come make: 1
+shit, come: 1
+sey as dat waka,: 1
+most trends, na: 1
+For inside hospital,: 1
+overall. Di bottom line be: 1
+sef,: 1
+be,: 1
+wey am, alternative: 1
+sey, ago, plus: 1
+Westmontallandandin: 1
+Westmont,: 1
+tey after: 1
+sey small, dey all: 1
+Donaldson,: 1
+18 months after: 1
+But time,: 1
+capital,: 1
+age.: 1
+among economy, dem: 1
+Roger: 1
+but am: 1
+Communication, Because: 1
+kom, but: 1
+as small, small, dey system computer come dey dey di focus for di industry ehn,: 1
+di wey sey institute, do: 1
+to di: 1
+dey dey dey dis account,: 1
+aprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespresprespres.: 1
+thousands,: 1
+writer,: 1
+fact, syndicate $21: 1
+minutes after: 1
+we if: 1
+since before: 1
+because dey market, sey: 1
+drop.: 1
+ehn package, ehn: 1
+di theory na: 1
+For mortgage, example,: 1
+wey sey so, sey: 1
+anoda, still: 1
+jw.org,: 1
+Batman.: 1
+pursue.: 1
+at di end of di day.: 1
+Brother: 1
+bifida, wey: 1
+when dat oda, happen,: 1
+bikos sell, bikos with: 1
+cos: 1
+dat plus: 1
+na why: 1
+dat fit make: 1
+one na sey,: 1
+are na one, na: 1
+dey average of six months before: 1
+dey happen, and: 1
+Around six months before: 1
+as finance, evidence: 1
+togeder togeder: 1
+jittery,: 1
+Apart analysts,: 1
+wey sey because: 1
+sey be: 1
+in Air, di: 1
+without: 1
+Senate: 1
+After, come: 1
+debt, wahala,: 1
+one of dem na: 1
+small sey: 1
+no sey,: 1
+1992): 1
+na as: 1
+example, we go: 1
+Na dey: 1
+odas, o, sey: 1
+blue: 1
+Chicago, but: 1
+Orleans less.: 1
+but am.: 1
+Oga and: 1
+1986, dey: 1
+naira): 1
+sey wetin different be sey,: 1
+na Miami, im: 1
+film, dat case,: 1
+sey, na: 1
+sef no: 1
+don but: 1
+small. Apart from: 1
+as sey sey: 1
+part, sey: 1
+: o,: 1
+close price,: 1
+thereafter.: 1
+dey whereas negotiation,: 1
+assess. one,: 1
+Sony.: 1
+one, still: 1
+Hollywood,: 1
+example, mga-ua'Rainman, Messia, Messia,: 1
+support.: 1
+dey be tin,: 1
+example, sey about: 1
+57%: 1
+di response di questionnaire, more than 63% na: 1
+economy, sey 12%: 1
+only 32% per: 1
+if and when: 1
+stock,: 1
+as sey per: 1
+talkers, sey: 1
+bid, o.: 1
+On share. top level,: 1
+Compar evritin (NYSE): 1
+Capital, still: 1
+but I still: 1
+for proposal,: 1
+circle.: 1
+dey (wey (wey things: 1
+around: 1
+car.: 1
+Dis: 1
+by time,: 1
+and spectator, even: 1
+blame am. sey: 1
+kwik kwik kwik: 1
+Shearson,: 1
+bully, instead,: 1
+but China,: 1
+China: 1
+sey go gain: 1
+1979, and: 1
+All talk Parker,: 1
+sey before now,: 1
+akordin to di special charge,: 1
+foreign: 1
+prepare: 1
+idiots, Even: 1
+Cepeda'and: 1
+am), but: 1
+di result region, na: 1
+Democracies, but: 1
+wetin wayo Russia.: 1
+hand. one,: 1
+wey dey comot bin dey wey: 1
+wey wey Meanwhile,: 1
+December. meanwhile,: 1
+Hasbro's: 1
+start, but: 1
+togeda.: 1
+shook: 1
+withstand: 1
+August, but: 1
+just 15 days after: 1
+year. from wey: 1
+dey too,: 1
+sey sey na sey: 1
+gboo.: 1
+Di wey di: 1
+so checkbook.: 1
+im dey Macin,: 1
+Corp),: 1
+Independent: 1
+“so: 1
+1930.: 1
+come come: 1
+forget: 1
+na dey dey make: 1
+disk,: 1
+base: 1
+wey dey sotey: 1
+2,120,: 1
+put sey am of together,: 1
+sey sotey: 1
+sell, come: 1
+For di first 25 minutes afta: 1
+For example software): 1
+(NYSE). to call: 1
+talk wey: 1
+jambito,: 1
+For example, client,: 1
+merger.: 1
+of di advice :: 1
+na sey go: 1
+open.: 1
+o, o,: 1
+still Union,: 1
+commitment.: 1
+(Na dey: 1
+wall: 1
+dat go chook: 1
+wey anoder sey: 1
+elect: 1
+But one thing wey our 1982, sey, be: 1
+earthquake. So: 1
+promise: 1
+afta am, afta: 1
+integration.: 1
+1908, come: 1
+night.: 1
+sey likewise,: 1
+come president, also: 1
+Bank America: 1
+of one, America note: 1
+about: 1
+be wey: 1
+Put kweshon kweshon sey: 1
+still o,: 1
+force: 1
+again. as: 1
+na am: 1
+Also, under: 1
+Di gain come from: 1
+Dis go give: 1
+area. Apart: 1
+true, true,: 1
+but us,: 1
+outsiders. dey Before,: 1
+outlanders: 1
+station, one: 1
+togeder.: 1
+anyhow, even: 1
+As dem Latvia.: 1
+Ohio,: 1
+ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-Ad-: 1
+“Texapon o, so: 1
+Di result don be: 1
+example, now, two: 1
+Dem “Mimon na dey dey: 1
+Quina).: 1
+Pemex: 1
+ELEGATE: ELEGATE:: 1
+Most behaviour. important,: 1
+since den,: 1
+effective,: 1
+sey development, plus: 1
+seven years after: 1
+foreign exchange exchange shikini: 1
+make plenty: 1
+di $3: 1
+as o, dey: 1
+: but: 1
+IBM,: 1
+Before that time,: 1
+demsef.: 1
+and na: 1
+along with be di: 1
+ehn.: 1
+30. increase be sey: 1
+Di number na akordin dey to: 1
+health $150 million sey: 1
+But matter,: 1
+Na dey im make: 1
+gas,: 1
+example, 1900, less: 1
+be dat years: 1
+example, don: 1
+(If: 1
+see, dey: 1
+farmer,: 1
+dey dey. wey Before,: 1
+add. But: 1
+one year after: 1
+wey wetin aMR: 1
+improve, but: 1
+1950.: 1
+for example.: 1
+na example, dey: 1
+sey sey na: 1
+consultants: 1
+analyst, but: 1
+program.: 1
+dia na Hewlett-Packard,: 1
+For example, shoulder,: 1
+e rubber, di: 1
+One of dem na: 1
+di until: 1
+be sey sey: 1
+29 years and 11 months to di day after: 1
+company. still: 1
+na one because: 1
+drop: 1
+The Dem di as: 1
+sey, example, e: 1
+fall: 1
+competition: 1
+after.: 1
+At first,: 1
+upstairs.: 1
+yard,: 1
+One reason sey: 1
+advance, but: 1
+sey, code.: 1
+from one, some: 1
+smooth.: 1
+egg.: 1
+dey main reason na: 1
+“Rand: 1
+dead: 1
+Angeles-Based: 1
+preaching, but na sey: 1
+or now,: 1
+na one example: 1
+money, interest,: 1
+as e am: 1
+soon thereafter.: 1
+dey of sey: 1
+For one sey Francisco,: 1
+But kweshon.: 1
+abortion rights dey: 1
+of matter, be: 1
+paper,: 1
+na di: 1
+rail,: 1
+comot as: 1
+suffer, or: 1
+kerosine,: 1
+bikos bikos: 1
+dey e: 1
+Artois,: 1
+dey for: 1
+well, well.: 1
+allow: 1
+example, go: 1
+plus advert.: 1
+12%: 1
+result sey: 1
+wey oda be dey: 1
+floor.: 1
+exchange. gree sey: 1
+professional: 1
+Jose.: 1
+Datatronic,: 1
+na wey sey: 1
+shares, if even: 1
+money, im na goment: 1
+naira. naira.: 1
+dey till: 1
+the oga,: 1
+wey even sey: 1
+Dem Oakland. still: 1
+Afta Afta don be: 1
+20, and: 1
+galaxies.: 1
+wey di some all. am,: 1
+so dem: 1
+(because: 1
+estate, as: 1
+wey people wey dey: 1
+Corp.: 1
+of dem na: 1
+expect, na: 1
+di declaration don kountry,: 1
+Apart different, dey: 1
+great: 1
+Ehn ehn ehn ehn: 1
+business: 1
+sey di bad ting wey dis abortion matter be: 1
+449.Asdaq: 1
+wey come wey: 1
+even then,: 1
+So far,: 1
+di ruling carry: 1
+at least when: 1
+Wednesday,: 1
+sey dey as least,: 1
+as e be expenses,: 1
+Concerning Concerning dat decision,: 1
+speculators,: 1
+Rehoboam wey matter.: 1
+two weeks after: 1
+dem if: 1
+anoda,: 1
+lobbie: 1
+quarrel, and: 1
+look,: 1
+Fujitsu,: 1
+burn: 1
+Ehn: 1
+dem. wayo because: 1
+in fact.: 1
+Pfeiffer's: 1
+And wey oders, oders,: 1
+admit: 1
+no again.: 1
+dia dia dey: 1
+Sey Sey: 1
+for inside income,: 1
+one,: 1
+wetin di: 1
+now, again.: 1
+buy.: 1
+example, wetin: 1
+business.: 1
+Soup: 1
+im come cause: 1
+and wey for: 1
+Because of dat one,: 1
+from do joint us production, dem: 1
+now, share.: 1
+talk.: 1
+Jaguar: 1
+even America, as: 1
+percent,: 1
+no after: 1
+by way sey: 1
+dey three weeks after: 1
+shortly thereafter.: 1
+overhead.: 1
+tink: 1
+PaineWeber: 1
+sey den: 1
+Seattle,: 1
+fire,: 1
+dem Apart one,: 1
+alternative: 1
+for Tandol, because: 1
+Di because of: 1
+plenty: 1
+in addition to pay for earthquake, and fire, dem fire,: 1
+fire.: 1
+am, how am,: 1
+anyhow,: 1
+govnors: 1
+California: 1
+(STUTU): 1
+matter, but: 1
+best: 1
+For Honecker.: 1
+invite: 1
+Apart from that tori: 1
+Czechoslovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlovlov beginning dey: 1
+For dey other wey different,: 1
+because of dat wall,: 1
+Premner, so: 1
+snags. Apart: 1
+agility. afta: 1
+because of one,: 1
+USAir: 1
+acquire. one,: 1
+infact, infact,: 1
+some week after: 1
+month, even: 1
+down. still work: 1
+Alexander: 1
+40.: 1
+5/8,: 1
+Gas: 1
+savings, H.F.A.Ahmanson am: 1
+UALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUAL: 1
+wey and dey: 1
+gollllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll: 1
+So wetin come sey: 1
+oyibo.: 1
+South: 1
+Great: 1
+to save: 1
+Wetin more?: 1
+“Na but: 1
+as well as: 1
+kpatakpata after: 1
+con sey ah: 1
+more than a year after: 1
+Di decrease na because: 1
+area, most times: 1
+UPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUPUP: 1
+carry dey: 1
+sey pass. dem bank na: 1
+Oakland,: 1
+CANADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADAADA: 1
+dey to: 1
+of all: 1
+sey di reason be sey: 1
+lionel continue: 1
+di stake for bin give: 1
+addition one, McCall's: 1
+north.: 1
+ehn,: 1
+Last year own, own, na na 1988.: 1
+di decrease fall: 1
+Another problem be: 1
+topic.: 1
+E because: 1
+gain. wey: 1
+o, competition give: 1
+for tings, example: 1
+klot,: 1
+identity. Germany,: 1
+slow: 1
+dem, dem: 1
+even though sey: 1
+away.: 1
+o, yesterday,: 1
+Inc. One na: 1
+well, still: 1
+Now sey: 1
+wey wey sey sey don sey: 1
+sey am on dia top of: 1
+plus oda tins,: 1
+but force,: 1
+Ltd.: 1
+to be home, sure: 1
+all, Apart: 1
+food, block shutdown cause give: 1
+property. still: 1
+Otherwise,: 1
+Dia Dia: 1
+di additional liquidity, sey dem: 1
+Within minutes after: 1
+dem, e: 1
+anyhow.: 1
+di sey refining go save: 1
+Oga Templeton: 1
+dem, dia because of dia wahala,: 1
+earnings. still wey: 1
+small!: 1
+but Monday,: 1
+am. But: 1
+afta three months afta: 1
+for sef,: 1
+Bank: 1
+igbo, But: 1
+wey compare di: 1
+di improvement na because of: 1
+wey o, especially: 1
+head.: 1
+after sun go: 1
+589,: 1
+marry, na because: 1
+rule: 1
+To do so,: 1
+Dem dey give: 1
+im go: 1
+fit, naira, so: 1
+mago, mago, mago, mago,: 1
+afternoon way,: 1
+On di top matter,: 1
+na na because: 1
+diet.: 1
+Another major factor wey dey dey popular na: 1
+But im: 1
+ontop di oda hand,: 1
+dey, na make: 1
+still say di: 1
+anoda factor be sey: 1
+university,: 1
+loss, meanwhile: 1
+example, Tenneco: 1
+maintain: 1
+‘oversight.’: 1
+and so,: 1
+na how di: 1
+time, dem: 1
+in turn: 1
+wey go add: 1
+Except: 1
+japanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpanpan: 1
+even now,: 1
+e But: 1
+sharper, sharper, dem sharper,: 1
+scores,: 1
+wey billion, sey: 1
+area, but: 1
+for Japan,: 1
+name: 1
+gutfreund, upstair.: 1
+).: 1
+amebo.: 1
+cuckoo, so: 1
+respectability, but: 1
+University, but: 1
+A,: 1
+company, im dem: 1
+Rega.: 1
+wey fit: 1
+For im make: 1
+o, ah: 1
+people sell: 1
+but year,: 1
+Soon,: 1
+kpata-kpata-kpata-kpata-kpata-kpata-kpata. 1960, among: 1
+use: 1
+want,: 1
+Torrijos. E: 1
+Managua.: 1
+opposition, and: 1
+as take man.: 1
+25 years afta: 1
+wetin dis dey talk be sey,: 1
+hand change,: 1
+better: 1
+earlier), but: 1
+tok year. plus: 1
+revolution.: 1
+diagnostics.: 1
+Short after,: 1
+(even dough: 1
+dis lead to: 1
+this bring: 1
+For 1986,: 1
+dollar. still dem: 1
+stop treatment.: 1
+stop: 1
+sey, and: 1
+Contra: 1
+But come: 1
+example, 15%: 1
+Seidman,: 1
+return: 1
+Di change for am dey na: 1
+join.: 1
+tins.: 1
+bicycle. wey Dem dey carry: 1
+Sierra katakata: 1
+bicycle.: 1
+wey tyre,: 1
+(weighborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborbor (weighborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborbor (weighborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborborbor: 1
+big.: 1
+bond: 1
+on top capital, e: 1
+VAT,: 1
+$124,875. Separation and: 1
+stand up,: 1
+standpoint.: 1
+Savaiko: 1
+gombodi: 1
+in solution, fact: 1
+years),: 1
+eight month, After: 1
+na na: 1
+artillery,: 1
+from one, di: 1
+army,: 1
+But o,: 1
+war, but: 1
+sotay (State).: 1
+wey SDF,: 1
+February,: 1
+na im treaty, im: 1
+fact, because: 1
+proponents: 1
+dey, na: 1
+protest, den: 1
+translation, but: 1
+sey Monday, you: 1
+wen dem do am,: 1
+exit, con: 1
+dey dey Corp. sef: 1
+weak.: 1
+12If: 1
+ehnastic, ehnastic.: 1
+(dat is,: 1
+up: 1
+sey dat,: 1
+e sotey understand.: 1
+lower: 1
+husband: 1
+basically,: 1
+minutes, na: 1
+apparently,: 1
+e us When: 1
+for do: 1
+robbers, but: 1
+deficit,: 1
+average, wey: 1
+For example, jibiti): 1
+tay tay sell.: 1
+addition, Oga: 1
+Merc, still: 1
+much, later,: 1
+wheder: 1
+And buy grow: 1
+yen,: 1
+show,: 1
+Base: 1
+naim matter, am: 1
+e go: 1
+members, but: 1
+for Angeles, sey: 1
+all. still: 1
+instead show,: 1
+ceiling, or oderwise,: 1
+Since that: 1
+Many of di price down cents. dey dey because: 1
+im purpose na: 1
+wetin And: 1
+di change, na be sey: 1
+IUD?: 1
+include: 1
+from dey am: 1
+counter, den,: 1
+to dey dere, di dere,: 1
+example, sey talk: 1
+klot.: 1
+di total borrow: 1
+“Naw oda: 1
+extend,: 1
+volumes, before: 1
+next.: 1
+Sports: 1
+dey (weda: 1
+second. but: 1
+buttresses: 1
+Ad: 1
+count: 1
+Di move by di Convention on Trade in Endangered Species, Switzerland, go Species, Switzerland, where: 1
+di plunge follow: 1
+Average,: 1
+or direction.: 1
+wons,: 1
+all,: 1
+1988, don: 1
+example, when: 1
+must: 1
+For example, Dem: 1
+sey di: 1
+Payson: 1
+(No wahala, be wahala,: 1
+for ) wey: 1
+force.: 1
+Dem about: 1
+supply.: 1
+for part because: 1
+linguri: 1
+dey kobo, Sey kobo,: 1
+dem, but: 1
+wey o, sey: 1
+On of top one,: 1
+taim.: 1
+institution, take be wey: 1
+Centrust wahala.: 1
+meanwhile Paul,: 1
+William: 1
+For example, Management,: 1
+dey shook: 1
+After rest,: 1
+Wachter, and: 1
+become: 1
+masters: 1
+canvas,: 1
+Kia, Kia.: 1
+Stock: 1
+some investors: 1
+yesterday, di: 1
+na yesterday,: 1
+month. Apart one,: 1
+ekwol,: 1
+LIVE: AUDIO LIVE:: 1
+na about: 1
+Informate: 1
+country: 1
+debt. Apart season,: 1
+wey but: 1
+mechanism.: 1
+after di money,: 1
+and dat time,: 1
+hand, and: 1
+o! do dem business dem: 1
+jw.org).: 1
+morning, some: 1
+Czechoslovlovlovlovlovlovlovlovlovlovlov: 1
+capital, but: 1
+Partly because: 1
+earlier, but: 1
+“Unless: 1
+document, dem: 1
+Eugene: 1
+e be like sey: 1
+speaking: 1
+Union.: 1
+hop.: 1
+of one, Ireland: 1
+year, but: 1
+wey no sey: 1
+dey and: 1
+PLENTY: 1
+Apart wey: 1
+housing,: 1
+end.: 1
+wey wey be market,: 1
+loan,: 1
+Na im reduce. sey: 1
+Irving: 1
+o, still: 1
+term. term, still: 1
+happen?: 1
+And so sey: 1
+so far,: 1
+dey bid, five minutes before: 1
+triangle.: 1
+Midland: 1
+Na so: 1
+closed.: 1
+Di dey take wey: 1
+ahs ahs: 1
+as just: 1
+Dem send dey: 1
+ad: 1
+K: 1
+dey business, dey: 1
+Friday.: 1
+a.k. a.k.: 1
+back,: 1
+sef for: 1
+Street, But: 1
+But market,: 1
+di loss result from: 1
+market: 1
+and colour.: 1
+tay tay: 1
+one big wahala be: 1
+Black and white dey: 1
+Di wey sey, make: 1
+So if: 1
+week. anoda GOAT for: 1
+‘As: 1
+work, wetin: 1
+vulnerable.: 1
+Market.: 1
+na dey as: 1
+suspend: 1
+send: 1
+information,: 1
+Kan.: 1
+inside index, two: 1
+wey na im: 1
+But rish,: 1
+di money na mainly di: 1
+lowest: 1
+so if go years.: 1
+comput: 1
+hours. Why be sey,: 1
+don do: 1
+Na im dey market.: 1
+no go: 1
+nko, nko,: 1
+Dem Dow,: 1
+morning after: 1
+ad-... ad-... ad-... ad-... ad-...: 1
+Brundtland.: 1
+sey de: 1
+na panic. come dey: 1
+for get, example: 1
+sey dem, of tradas, hand: 1
+na sidelines.: 1
+suffer: 1
+still am.: 1
+Californians: 1
+In other words,: 1
+Di next one na: 1
+na be: 1
+tradas.: 1
+Fairfax: 1
+10:15: 1
+sey alsoi: 1
+(like (like 38),: 1
+Peter: 1
+instead weakness,: 1
+Coast: 1
+di facility, na plus: 1
+For example, Ilford,: 1
+This make: 1
+oda,: 1
+to e be: 1
+dey market, especially: 1
+For example: 1
+Madagascar.: 1
+yesterday, dem: 1
+lead: 1
+P&G: 1
+dey things because: 1
+rather: 1
+tactic,: 1
+gbadun, but: 1
+di delay follow sey: 1
+say dat change go likely affect: 1
+Agfa: 1
+pipol, but di: 1
+colon: 1
+share,: 1
+ah: 1
+no waste time,: 1
+world. since: 1
+before-before, naw,: 1
+but naw,: 1
+but come: 1
+later dey: 1
+compared to dat: 1
+finally,: 1
+dis, but: 1
+Maxus: 1
+since den.: 1
+people,: 1
+open,: 1
+1987.: 1
+Airlines. Indeed,: 1
+no wahala, wahala, wahala,: 1
+of like,: 1
+before, e before,: 1
+After minutes,: 1
+rent, but: 1
+Madison,: 1
+Even though sey: 1
+na still dey: 1
+But now,: 1
+Canada: 1
+because of: 1
+wey dem before, be: 1
+(Dis: 1
+Jeffrey: 1
+because dey: 1
+Co. Also,: 1
+Small: 1
+adviser, im: 1
+one business, di sey: 1
+rent, and: 1
+im na small pass high pass: 1
+one major reason be sey: 1
+mago, mago,: 1
+Ms.: 1
+increase,: 1
+post dey call: 1
+This one come make: 1
+p. Meanwhile: 1
+suppose: 1
+China.: 1
+Inc., J.: 1
+but weda: 1
+engineer, and: 1
+total: 1
+Korea,: 1
+One reason be sey: 1
+di announcement make: 1
+Businessland: 1
+For example, computer,: 1
+distribution: 1
+for United say: 1
+Dirk: 1
+matter, according: 1
+na dis one dey: 1
+dey dey na im season,: 1
+To make to go,: 1
+party.: 1
+sey HOFI: 1
+high.: 1
+Europe: 1
+maybe: 1
+e defence,: 1
+quarter, wey: 1
+spread,: 1
+one reason be: 1
+price, na sey: 1
+Ohio. sey: 1
+securities: 1
+well, sey: 1
+Di main ting remain: 1
+Di much.: 1
+dere, but: 1
+Laura: 1
+For example am): 1
+tins: 1
+oderwise,: 1
+struggle: 1
+example, Gannett Gannett: 1
+For example, Communications,: 1
+before e: 1
+eva)... eva na eva top: 1
+Despite: 1
+try. wey: 1
+examples na:: 1
+kind: 1
+testify, so: 1
+After dat one,: 1
+for of sey: 1
+billion,: 1
+di am: 1
+na di wey: 1
+trade, but: 1
+shock: 1
+market, doz doz: 1
+e get: 1
+how grow akordin akordin to wit: 1
+economists: 1
+Sung: 1
+Also sey: 1
+e sey because: 1
+but today,: 1
+assets.: 1
+order: 1
+over,: 1
+dey talk: 1
+produce.: 1
+now say: 1
+thing.: 1
+CNN,: 1
+dey plus dey: 1
+eyibo,: 1
+yuzles?: 1
+do?: 1
+Government: 1
+if and wen: 1
+pushin,: 1
+also as: 1
+am dat time,: 1
+wey dia o,: 1
+talk, talk, talk,: 1
+mind.: 1
+example, Michael: 1
+am, wey: 1
+especially for: 1
+Dem no do, at-all.: 1
+replace: 1
+tey: 1
+na one reason why di report,: 1
+con so: 1
+again, months,: 1
+s.: 1
+Wetin Wetin change be sey,: 1
+dem. because: 1
+siddon ah: 1
+carry court,: 1
+recognize: 1
+im aproko,: 1
+Na wey so in-cheek. matter.: 1
+sitcom,: 1
+criticise: 1
+Sey House, plus: 1
+Leader, but: 1
+yahoo,: 1
+E now).: 1
+discount, dat na dey clear indication sey: 1
+five,: 1
+wey wey sey: 1
+Di plan of di interruption go na: 1
+collapse,: 1
+sell. year, still: 1
+but dey.: 1
+partly because: 1
+citizens, and: 1
+deir sey big,: 1
+Since den time,: 1
+room machine wey e: 1
+Simultaneously,: 1
+2002: 1
+evriday.: 1
+morning, but: 1
+house,: 1
+Immediately: 1
+fund, and: 1
+of no: 1
+fact, some: 1
+o, sey: 1
+dis one: 1
+sef, sef,: 1
+tori,: 1
+dis time,: 1
+kwik,: 1
+by den,: 1
+sell-off,: 1
+million. no: 1
+Local: 1
+free.: 1
+Then,: 1
+weda: 1
+e if town, wey sey be: 1
+Vose, but: 1
+also sey: 1
+bond. sey,: 1
+gain, still: 1
+state.: 1
+toy: 1
+hear,: 1
+permission.: 1
+di top per: 1
+feel: 1
+small fin-syn.: 1
+FIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFIFI: 1
+lineup,: 1
+happen: 1
+(NCR),: 1
+such: 1
+instead station,: 1
+just eight days before: 1
+FCC, yarn: 1
+Mulford,: 1
+for as: 1
+house. different: 1
+example: 1
+wey ground: 1
+front,: 1
+e country.: 1
+government, im dey: 1
+control, dey dey also plus: 1
+1979.: 1
+di years, sey as: 1
+six years. after: 1
+for dey second wey dere,: 1
+before).: 1
+stiff: 1
+(dat na grow), make: 1
+o, also: 1
+again, as: 1
+assembly: 1
+two months before: 1
+Na when: 1
+industry, besides: 1
+months afta: 1
+Sen. Senate: 1
+wey wey be di: 1
+comot?: 1
+now sey: 1
+Papandreou,: 1
+To: 1
+oya,: 1
+dey now.: 1
+well well: 1
+Especially,: 1
+(as other words,: 1
+o:: 1
+case, but: 1
+OBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOB: 1
+Shepard: 1
+dey also D.C.E.: 1
+Washington D.C.E.: 1
