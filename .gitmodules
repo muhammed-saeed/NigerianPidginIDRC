@@ -1,0 +1,3 @@
+[submodule "DiscoPromptPidgin"]
+  path = DiscoPromptPidgin
+  url = https://github.com/HKUST-KnowComp/DiscoPrompt
