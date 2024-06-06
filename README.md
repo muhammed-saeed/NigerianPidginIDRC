@@ -1,5 +1,3 @@
-I apologize for the confusion earlier. Here is the entire `README.md` content in a single markdown block, formatted correctly for easy copying:
-
 ```markdown
 # NigerianPidginIDRC
 
