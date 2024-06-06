@@ -1,2 +1,1 @@
-
 python3 /local/musaeed/giza-py/giza.py --source "/local/musaeed/NPIDRC/align/PFT/scripts/python/somecodes/english.txt" --target "/local/musaeed/NPIDRC/align/PFT/scripts/python/somecodes/pidginFiles.txt"   --alignments "/local/musaeed/NPIDRC/align/PFT/scripts/python/somecodes/English2PCMalignmentsGizaPyUsingAkramDataset.txt"

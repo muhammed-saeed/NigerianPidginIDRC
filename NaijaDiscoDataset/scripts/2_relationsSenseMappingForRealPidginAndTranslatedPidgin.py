@@ -1,11 +1,7 @@
 import pandas as pd
 import numpy as np
-
-
 file_path = "/local/musaeed/NPIDRC/NaijaDiscoDataset/dataset/annotations_final_with_utt_withPidgin.csv"
 df = pd.read_csv(file_path)
-
-
 pdtb_mapping = {
     "Temporal.Synchronous": "Temporal.Synchronous",
     "Temporal.Asynchronous.Precedence": "Temporal.Asynchronous.Precedence",
@@ -43,38 +39,28 @@ pdtb_mapping = {
     "Expansion.Manner.Arg1-as-manner": None,
     "Expansion.Manner.Arg2-as-manner": None
 }
-
-
 def apply_mapping(value):
     if pd.isna(value) or value not in pdtb_mapping:
         return None
     return pdtb_mapping.get(value)
-
 df['NP_rs1_mapped'] = df['NP_rs1'].apply(apply_mapping)
 df['NP_rs2_mapped'] = df['NP_rs2'].apply(apply_mapping)
-
 print(df[['NP_rs1', 'NP_rs1_mapped', 'NP_rs2', 'NP_rs2_mapped']].head())
 dfImpEnt = df[(df["reltype"]=="Implicit")|(df["reltype"]=="EntRel")]
 print(dfImpEnt.NP_rs1.value_counts())
 print(dfImpEnt.NP_rs1_mapped.value_counts())
-
 print(dfImpEnt.NP_rs2.value_counts())
 print(dfImpEnt.NP_rs2_mapped.value_counts())
-
 def extract_first_span_start(span):
     if pd.isna(span):
         return float('inf')  
     first_span = span.split(';')[0]  
     start = first_span.split('..')[0]
     return int(start)
-
-
 def apply_fullrawtext_logic(df):
     df['Arg1_FirstSpanStart'] = df['NP_arg1_utt_span'].apply(extract_first_span_start)
     df['Arg2_FirstSpanStart'] = df['NP_arg2_utt_span'].apply(extract_first_span_start)
-    
     full_text_list = []
-    
     for index, row in df.iterrows():
         arg1_text = row['NP_arg1_utt'] if pd.notna(row['NP_arg1_utt']) else ""
         arg2_text = row['NP_arg2_utt'] if pd.notna(row['NP_arg2_utt']) else ""
@@ -83,14 +69,9 @@ def apply_fullrawtext_logic(df):
         else:
             full_text = arg2_text + " " + arg1_text
         full_text_list.append(full_text)
-    
-    
     df['FullRawText'] = full_text_list
     return df
-
-
 dfImpEnt = apply_fullrawtext_logic(dfImpEnt)
-
 RealPidgin = {
     'NP_reltype':"Relation",
     "NP_arg1_utt":"Arg1_RawText",
@@ -102,32 +83,16 @@ RealPidgin = {
     "NP_arg1_utt_span": "Arg1_SpanList",
     "NP_arg2_utt_span": "Arg2_SpanList",
 }
-
-
 dfImpEnt = dfImpEnt.rename(columns=RealPidgin)
 dfImpEnt['FileNumber'] = dfImpEnt.index
 dfImpEnt['Section'] = 22
 dfImpEnt["Conn2SemClass2"] = np.NaN
 dfImpEnt["ConnHeadSemClass2"] = np.NaN
-
-
-
-
-
 dfImpEnt.to_csv("/local/musaeed/NPIDRC/NaijaDiscoDataset/dataset/Mapped/mappedSenses/ImplicitEntrelRealPidginDiscoPromptToEval.csv", index=False)
-
-
-
-
 def apply_fullrawtext_logic(df):
-    
     df['Arg1_FirstSpanStart'] = df['Arg1_SpanList'].apply(extract_first_span_start)
     df['Arg2_FirstSpanStart'] = df['Arg2_SpanList'].apply(extract_first_span_start)
-    
-    
     full_text_list = []
-    
-    
     for index, row in df.iterrows():
         arg1_text = row['Arg1English_Translated'] if pd.notna(row['Arg1English_Translated']) else ""
         arg2_text = row['Arg2English_Translated'] if pd.notna(row['Arg2English_Translated']) else ""
@@ -136,40 +101,25 @@ def apply_fullrawtext_logic(df):
         else:
             full_text = arg2_text + " " + arg1_text
         full_text_list.append(full_text)
-    
-    
     df['FullRawText'] = full_text_list
     return df
-
-
-
 file_path = "/local/musaeed/NPIDRC/NaijaDiscoDataset/dataset/translatedToEnglish/NaijaDiscoTranslatedData.csv"
 dfEN = pd.read_csv(file_path)
 dfEN['NP_rs1'] = dfEN['ConnHeadSemClass1']
 dfEN['NP_rs2'] = dfEN['Conn2SemClass1']
 print(dfEN.ConnHeadSemClass1.value_counts())
 print(dfEN.Conn2SemClass1.value_counts())
-
 dfEN['ConnHeadSemClass1_mapped'] = np.nan
 dfEN['Conn2SemClass1_mapped'] = np.nan
-
-
 dfEN['NP_rs1_mapped'] = dfEN['NP_rs1'].apply(apply_mapping)
 dfEN['NP_rs2_mapped'] = dfEN['NP_rs2'].apply(apply_mapping)
-
-
 print(dfEN[['NP_rs1', 'NP_rs1_mapped', 'NP_rs2', 'NP_rs2_mapped']].head())
 dfENImpEnt = dfEN[(dfEN["reltype"]=="Implicit")|(dfEN["reltype"]=="EntRel")]
 print(dfENImpEnt.NP_rs1.value_counts())
 print(dfENImpEnt.NP_rs1_mapped.value_counts())
-
 print(dfENImpEnt.NP_rs2.value_counts())
 print(dfENImpEnt.NP_rs2_mapped.value_counts())
-
-
 dfENImpEnt = apply_fullrawtext_logic(dfENImpEnt)
-
-
 TranslatePidgin = {
     'NP_reltype':"Relation",
     "Arg1English_Translated":"Arg1_RawText",
@@ -181,17 +131,9 @@ TranslatePidgin = {
     "NP_arg1_utt_span": "Arg1_SpanList",
     "NP_arg2_utt_span": "Arg2_SpanList",
 }
-
 dfENImpEnt = dfENImpEnt.rename(columns=TranslatePidgin)
 dfENImpEnt['FileNumber'] = dfENImpEnt.index
 dfENImpEnt['Section'] = 22
 dfENImpEnt["Conn2SemClass2"] = np.NaN
 dfENImpEnt["ConnHeadSemClass2"] = np.NaN
-
-
-
-
-
 dfENImpEnt.to_csv("/local/musaeed/NPIDRC/NaijaDiscoDataset/dataset/Mapped/mappedSenses/TranslatedPidginToEnglishImplicitEntRelDiscoPromptToEval.csv", index=False)
-
-
