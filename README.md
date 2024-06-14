@@ -36,7 +36,7 @@ CUDA_VISIBLE_DEVICES=1 python3 evaluate.py \
 
 The other direction includes the creation of the Nigerian Pidgin NP Penn Discourse Treebank (NP-PDTB)-like dataset. To achieve the generation of the NP-PDTB, we first started by using an off-the-shelf translation model that needs this setup:
 
-First one is using the \cite{lin23low} engine, from  then install the requirements and translate the English pdtb2 into Pidgin, 
+First one is using the \cite{lin2023low} "https://arxiv.org/abs/2307.00382" engine, from  then install the requirements and translate the English pdtb2 into Pidgin, 
 ```bash
 pip install -r requirements.txt
 ```
@@ -47,22 +47,49 @@ Note we are using PDTB2 from this source `https://github.com/cgpotts/pdtb2` whic
 /PATH_TO/NigerianPidginIDRC/t5_translation/02_Translation.py
 ```
 
-We trained two various models for translation.
+We trained two various models for translation (LLama and PL4MT).
 
-The first one needs the following setup:
+For the LLama model  one needs the following setup:
 
 ```bash
+git clone https://github.com/tloen/alpaca-lora
+cd alpaca-lora
 pip install -r requirments
 ```
+Then train LLama Using
+```
+#Train
+bash /local/musaeed/NigerianPidginIDRC/MachineTranslation/llama/train/finetune.sh
+#Evaluate using 
+bash /local/musaeed/NigerianPidginIDRC/MachineTranslation/llama/train/evaluatte.sh
+```
 
-and then train with:
+and for the training with the PLM4MT First need the setup and then train:
 
+```bash
+pip install -r /local/musaeed/NigerianPidginIDRC/MachineTranslation/PLM4MT/requirments.txt
+```
+Data Preperation
 ```python
-# Training code
+python/local/musaeed/NigerianPidginIDRC/MachineTranslation/PLM4MT/scripts/python/1_dataPreperation.py
+bash /local/musaeed/NigerianPidginIDRC/MachineTranslation/PLM4MT/scripts/bash/train.sh
 ``` 
+
+Our results have found that \cite{lin2023low}
 
 For the creation of the dataset, we have alignment-based and full transfer-based methods.
 
 We also used various alignment models, including Awesome, SimAlign, GizaPy, PFT, and CRAFT.
+
+The codes are organized in the 
+
+```
+/local/musaeed/NigerianPidginIDRC/AlignmentCenteric
+/local/musaeed/NigerianPidginIDRC/FullTransferMethod
+```
+
+Then for the training of the DiscoPrompt Model the code
+```
+/local/musaeed/NigerianPidginIDRC/DiscoPromptPidgin
 ```
 
