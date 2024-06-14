@@ -59,20 +59,20 @@ pip install -r requirments
 Then train LLama Using
 ```
 #Train
-bash /local/musaeed/NigerianPidginIDRC/MachineTranslation/llama/train/finetune.sh
+bash /PATH_TO/NigerianPidginIDRC/MachineTranslation/llama/train/finetune.sh
 #Evaluate using 
-bash /local/musaeed/NigerianPidginIDRC/MachineTranslation/llama/train/evaluatte.sh
+bash /PATH_TO/NigerianPidginIDRC/MachineTranslation/llama/train/evaluatte.sh
 ```
 
 and for the training with the PLM4MT First need the setup and then train:
 
 ```bash
-pip install -r /local/musaeed/NigerianPidginIDRC/MachineTranslation/PLM4MT/requirments.txt
+pip install -r /PATH_TO/NigerianPidginIDRC/MachineTranslation/PLM4MT/requirments.txt
 ```
 Data Preperation
 ```python
-python/local/musaeed/NigerianPidginIDRC/MachineTranslation/PLM4MT/scripts/python/1_dataPreperation.py
-bash /local/musaeed/NigerianPidginIDRC/MachineTranslation/PLM4MT/scripts/bash/train.sh
+python/PATH_TO/NigerianPidginIDRC/MachineTranslation/PLM4MT/scripts/python/1_dataPreperation.py
+bash /PATH_TO/NigerianPidginIDRC/MachineTranslation/PLM4MT/scripts/bash/train.sh
 ``` 
 
 Our results have found that \cite{lin2023low}
@@ -84,12 +84,12 @@ We also used various alignment models, including Awesome, SimAlign, GizaPy, PFT,
 The codes are organized in the 
 
 ```
-/local/musaeed/NigerianPidginIDRC/AlignmentCenteric
-/local/musaeed/NigerianPidginIDRC/FullTransferMethod
+/PATH_TO/NigerianPidginIDRC/AlignmentCenteric
+/PATH_TO/NigerianPidginIDRC/FullTransferMethod
 ```
 
 Then for the training of the DiscoPrompt Model the code
 ```
-/local/musaeed/NigerianPidginIDRC/DiscoPromptPidgin
+/PATH_TO/NigerianPidginIDRC/DiscoPromptPidgin
 ```
 
