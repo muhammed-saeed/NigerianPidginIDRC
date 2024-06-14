@@ -8,7 +8,7 @@ with open('align/awesomealign/rawData/english.txt', 'r') as f:
     english_texts = f.readlines()
 with open('align/awesomealign/rawData/pcm.txt', 'r') as f:
     pcm_texts = f.readlines()
-with open("/local/musaeed/NPIDRC/align/awesomealign/rawData/english2pcmAlignmentFineTunedModelpostprocessedpidgin.txt", "r") as f:
+with open("/PATH_TO/NPIDRC/align/awesomealign/rawData/english2pcmAlignmentFineTunedModelpostprocessedpidgin.txt", "r") as f:
     alignment_data = [line.strip().split() for line in f]
 def get_word_indices_from_raw_text(raw_text, full_text):
     start_char_idx = full_text.find(raw_text)
@@ -29,7 +29,7 @@ def get_aligned_indices(start_idx, end_idx, alignment):
 def extract_words_from_indices(word_indices, text):
     words = text.split()
     return ' '.join(words[idx] for idx in word_indices)
-corpus_reader = CorpusReader('/local/musaeed/pdtb2.csv')
+corpus_reader = CorpusReader('/PATH_TO/pdtb2.csv')
 arg1_rawtexts = []
 arg2_rawtexts = []
 connective_rawtexts = []

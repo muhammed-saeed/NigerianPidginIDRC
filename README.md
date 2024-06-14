@@ -9,7 +9,7 @@ Our two approaches are zeroshot and Cross Lingual Fine-Tuning. For the zeroshot 
 
 
 ```python
-CUDA_VISIBLE_DEVICES=6 python /local/musaeed/DiscoPrompt/DiscoPrompt.py \
+CUDA_VISIBLE_DEVICES=6 python /PATH_TO/DiscoPrompt/DiscoPrompt.py \
 --template_id 0 --max_steps 30000 \
 --batch_size 4 --eval_every_steps 250 \
 --dataset ji --model_name_or_path google/t5-v1_1-large \
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 Note we are using PDTB2 from this source `https://github.com/cgpotts/pdtb2` which contains csv file and we are translate the `FullRawText` column into Pidgin
 
 ```python
-/local/musaeed/NigerianPidginIDRC/t5_translation/02_Translation.py
+/PATH_TO/NigerianPidginIDRC/t5_translation/02_Translation.py
 ```
 
 We trained two various models for translation.

@@ -4,7 +4,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 tokenizer_en = RobertaTokenizer.from_pretrained('roberta-base')
 model_en = RobertaModel.from_pretrained('roberta-base')
 tokenizer_pidgin = RobertaTokenizer.from_pretrained('roberta-base')
-model_pidgin = RobertaModel.from_pretrained('/local/musaeed/checkpoint-53500')
+model_pidgin = RobertaModel.from_pretrained('/PATH_TO/checkpoint-53500')
 english_sentence = "Hello, how are you?"
 pidgin_sentence = "How you dey?"
 encoded_en = tokenizer_en(english_sentence, return_tensors='pt', padding=True, truncation=True)

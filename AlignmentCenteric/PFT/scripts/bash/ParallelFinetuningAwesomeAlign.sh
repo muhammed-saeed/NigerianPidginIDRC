@@ -1,6 +1,6 @@
-TRAIN_FILE=/local/musaeed/NPIDRC/align/PFT/English2PidingTrain.txt
-EVAL_FILE=/local/musaeed/NPIDRC/align/PFT/English2PidingDev.txt
-OUTPUT_DIR=/local/musaeed/NPIDRC/align/PFT/finetunedmodels/finetunedTreebankModel
+TRAIN_FILE=/PATH_TO/NPIDRC/align/PFT/English2PidingTrain.txt
+EVAL_FILE=/PATH_TO/NPIDRC/align/PFT/English2PidingDev.txt
+OUTPUT_DIR=/PATH_TO/NPIDRC/align/PFT/finetunedmodels/finetunedTreebankModel
 CUDA_VISIBLE_DEVICES=2 awesome-train \
     --output_dir=$OUTPUT_DIR \
     --model_name_or_path=bert-base-multilingual-cased \

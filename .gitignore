@@ -1,1 +1,12 @@
-**/*(>[50])
+FullTransferMethod/Implicit/dataset/ProjectedDataSet/Continous/PDTB2TranslatedData/local/musaeed/DRCNP/CorpusCreation/Implicit/projectedDataset/Continous/PDTB2TranslatedData.csv
+FullTransferMethod/Implicit/dataset/ProjectedDataSet/Continous/pdtb2ImplicitEntrelContinousProcessed.csv
+FullTransferMethod/Implicit/projectedDataset/Continous/PDTB2TranslatedData.csv
+MachineTranslation/llama/data/bidirectional_translation_fixed_instruction.json
+MachineTranslation/llama/data/bidirectional_translation.json
+MachineTranslation/PLM4MT/thump/mgpt/model.safetensors
+AlignmentCenteric/simAlgin/data/TextErrorPCMRoBERTA/20240129/pdtb2_pcm_alignment_naijaLex_soft.csv
+.git/objects/ba/c10e1dc29f61a5bd8b81f6e0ffd6a2401ed430
+.git/objects/pack/tmp_pack_6gFXBt
+.git/objects/pack/pack-d14d644314b2753de2f171f6765ea7b647c0addf.pack
+.git/objects/da/3fbb97fd67138ca93339294d30268b6f69a4aa
+.gitignore

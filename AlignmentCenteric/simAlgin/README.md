@@ -69,10 +69,10 @@ This README provides an overview of the data processing pipeline for extracting,
 To extract data from PDTB2.csv, you can use the following command:
 
 ```bash
-python /local/musaeed/general-pidgin-modeling/align/simAlgin/scripts/0_filterdataframe.py /local/musaeed/pdtb2.csv
+python /PATH_TO/general-pidgin-modeling/align/simAlgin/scripts/0_filterdataframe.py /PATH_TO/pdtb2.csv
 ```
 
-Make sure to replace `/local/musaeed/pdtb2.csv` with the actual path to your PDTB2.csv file. This step will generate the necessary data.
+Make sure to replace `/PATH_TO/pdtb2.csv` with the actual path to your PDTB2.csv file. This step will generate the necessary data.
 
 ## Step 2: Generate Alignments
 
@@ -89,7 +89,7 @@ Configure the script with the correct input and output paths for your data.
 To extract Arg1 and Arg2 alignments and replace alignment errors with NaijaLex, you can use the following command:
 
 ```bash
-python /local/musaeed/general-pidgin-modeling/align/simAlgin/scripts/6_PDTB2TextErrorreplaceAlignmentErrorWithNaijaLex.py
+python /PATH_TO/general-pidgin-modeling/align/simAlgin/scripts/6_PDTB2TextErrorreplaceAlignmentErrorWithNaijaLex.py
 ```
 
 Ensure that you configure the script with the correct input and output paths, as well as any other necessary parameters.

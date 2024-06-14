@@ -32,16 +32,16 @@ from discoverbalizer import DiscoVerbalizer
 
 parser = argparse.ArgumentParser("")
 parser.add_argument("--seed", type=int, default=144)
-parser.add_argument("--csv_file_path", type=str, default="/local/musaeed/NPIDRC/BMGF-RoBERTa/data/csvBMGFColumns/pdtb2Pidgin.csv")
+parser.add_argument("--csv_file_path", type=str, default="/PATH_TO/NPIDRC/BMGF-RoBERTa/data/csvBMGFColumns/pdtb2Pidgin.csv")
 parser.add_argument("--plm_eval_mode", action="store_true", help="whether to turn off the dropout in the freezed model. Set to true to turn off.")
 parser.add_argument("--tune_plm", action="store_true", help="Whether to tune the plm, default to False")
 parser.add_argument("--few_shot", action="store_true", help="Whether to tune the plm, default to False")
 parser.add_argument("--shot", type=int, default=-1)
-parser.add_argument("--few_shot_data",  type=str, default="/local/musaeed/DiscoPrompt/PDTB2-Imp-Fewshot")
+parser.add_argument("--few_shot_data",  type=str, default="/PATH_TO/DiscoPrompt/PDTB2-Imp-Fewshot")
 parser.add_argument("--epoch", type=int, default=1000_000)
 parser.add_argument("--model", type=str, default='t5', help="We test both t5 in this scripts, the corresponding tokenizerwrapper will be automatically loaded.")
 parser.add_argument("--model_name_or_path", default='/model_path/t5-base')
-parser.add_argument("--project_root", default='/local/musaeed/DiscoPrompt', help="The project root in the file system")
+parser.add_argument("--project_root", default='/PATH_TO/DiscoPrompt', help="The project root in the file system")
 parser.add_argument("--template_file", default='DiscoPropmt_template.txt', help="The project root in the file system")                    
 parser.add_argument("--template_id", type=int, default=0)
 parser.add_argument("--verbalizer_id", type=int, default=0)
@@ -49,7 +49,7 @@ parser.add_argument("--verbalizer_id", type=int, default=0)
 parser.add_argument("--shouldResumeTrainingFromCheckpoint", type=bool, default=False)
 parser.add_argument("--resume_from_checkpoint", type=str, help="Checkpoint to contiune the training from ")
 parser.add_argument("--dataset",type=str, default= "ji" )
-parser.add_argument("--result_file", type=str, default="/local/musaeed/DiscoPrompt/results/results.txt")
+parser.add_argument("--result_file", type=str, default="/PATH_TO/DiscoPrompt/results/results.txt")
 parser.add_argument("--ckpt_file", type=str, default="DiscoPromptClassification_results")
 
 parser.add_argument("--num_classes", default=11, type=int)
@@ -92,7 +92,7 @@ if args.dataset == "ji":
     num_classes = 11 
     Processor = PDTB2Processor(num_labels=num_classes)
     
-    data_dir = "/local/musaeed/DiscoPrompt/PDTB2-Imp"
+    data_dir = "/PATH_TO/DiscoPrompt/PDTB2-Imp"
     
     
     pdtb2_df = pd.read_csv(args.csv_file_path, low_memory=False)
@@ -140,7 +140,7 @@ elif args.dataset == "ji-2class":
     num_classes = 11 
     Processor = PDTB2Processor(num_labels=num_classes)
     
-    data_dir = "/local/musaeed/DiscoPrompt/PDTB2-Imp"
+    data_dir = "/PATH_TO/DiscoPrompt/PDTB2-Imp"
     dataset = {}
     dataset['train'] = Processor.get_examples(data_dir, 'train')
     dataset['validation'] = Processor.get_examples(data_dir, 'dev')
@@ -164,7 +164,7 @@ elif args.dataset == "ji-topcon":
     num_classes = 11 
     Processor = PDTB2Processor(num_labels=num_classes)
     
-    data_dir = "/local/musaeed/DiscoPrompt/PDTB2-Imp"
+    data_dir = "/PATH_TO/DiscoPrompt/PDTB2-Imp"
     dataset = {}
     dataset['train'] = Processor.get_examples(data_dir, 'train')
     if args.few_shot: 
@@ -191,7 +191,7 @@ elif args.dataset == "ji-seccon":
     num_classes = 11 
     Processor = PDTB2Processor(num_labels=num_classes)
     
-    data_dir = "/local/musaeed/DiscoPrompt/PDTB2-Imp"
+    data_dir = "/PATH_TO/DiscoPrompt/PDTB2-Imp"
     dataset = {}
     dataset['train'] = Processor.get_examples(data_dir, 'train')
     dataset['validation'] = Processor.get_examples(data_dir, 'dev')
@@ -215,7 +215,7 @@ elif args.dataset == "ji-connectiveonly":
     num_classes = 11 
     Processor = PDTB2Processor(num_labels=num_classes)
     
-    data_dir = "/local/musaeed/DiscoPrompt/PDTB2-Imp"
+    data_dir = "/PATH_TO/DiscoPrompt/PDTB2-Imp"
     dataset = {}
     dataset['train'] = Processor.get_examples(data_dir, 'train')
     if args.few_shot: 
@@ -266,7 +266,7 @@ elif args.dataset == "lin":
     num_classes = 11 
     Processor = PDTB2Processor(num_labels=num_classes)
     
-    data_dir = "/local/musaeed/DiscoPrompt/PDTB2-Imp-Lin"
+    data_dir = "/PATH_TO/DiscoPrompt/PDTB2-Imp-Lin"
     dataset = {}
     dataset['train'] = Processor.get_examples(data_dir, 'train')
     dataset['validation'] = Processor.get_examples(data_dir, 'dev')
@@ -290,7 +290,7 @@ elif args.dataset == "conll16-test":
     num_classes = 14 
     Processor = CoNLL15Processor(num_labels=num_classes)
     
-    data_dir = "/local/musaeed/DiscoPrompt/CoNLL15-Imp"
+    data_dir = "/PATH_TO/DiscoPrompt/CoNLL15-Imp"
     dataset = {}
     dataset['train'] = Processor.get_examples(data_dir, 'train')
     dataset['validation'] = Processor.get_examples(data_dir, 'dev')
@@ -317,7 +317,7 @@ elif args.dataset == "conll16-blind":
     num_classes = 14 
     Processor = CoNLL15Processor(num_labels=num_classes)
     
-    data_dir = "/local/musaeed/DiscoPrompt/CoNLL15-Imp-Blind"
+    data_dir = "/PATH_TO/DiscoPrompt/CoNLL15-Imp-Blind"
     dataset = {}
     dataset['train'] = Processor.get_examples(data_dir, 'train')
     dataset['validation'] = Processor.get_examples(data_dir, 'dev')
@@ -344,7 +344,7 @@ elif args.dataset == "pdtb3":
     num_classes = 14 
     Processor = PDTB3Processor(num_labels=num_classes)
     
-    data_dir = "/local/musaeed/DiscoPrompt/PDTB3-Imp-Ji"
+    data_dir = "/PATH_TO/DiscoPrompt/PDTB3-Imp-Ji"
     dataset = {}
     dataset['train'] = Processor.get_examples(data_dir, 'train')
     dataset['validation'] = Processor.get_examples(data_dir, 'dev')

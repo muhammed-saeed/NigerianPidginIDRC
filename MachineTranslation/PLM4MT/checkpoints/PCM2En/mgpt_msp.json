@@ -1,0 +1,1 @@
+{"prompt_length": 128, "label_smoothing": 0.1, "sep_id": 250099, "dec_no_prefix": false, "share_prompt": false, "re_encoding": 1}

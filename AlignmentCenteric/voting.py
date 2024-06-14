@@ -1,8 +1,8 @@
 alignment_files = [
-    "/local/musaeed/NPIDRC/align/fastAlign/data/translatedData/alignments.txt",
-    "/local/musaeed/NPIDRC/align/eflomal/data/translatedData/alignments.txt",
-    "/local/musaeed/NPIDRC/align/giza-py/extratedPCMAFterAlignments/English2PCMalignments.txt",
-    "/local/musaeed/NPIDRC/align/simAlgin/data/alignments_output.txt"
+    "/PATH_TO/NPIDRC/align/fastAlign/data/translatedData/alignments.txt",
+    "/PATH_TO/NPIDRC/align/eflomal/data/translatedData/alignments.txt",
+    "/PATH_TO/NPIDRC/align/giza-py/extratedPCMAFterAlignments/English2PCMalignments.txt",
+    "/PATH_TO/NPIDRC/align/simAlgin/data/alignments_output.txt"
 ]
 alignment_lines_lists = []
 for file_path in alignment_files:
@@ -25,7 +25,7 @@ if most_common_alignment:
     output_alignment = most_common_alignment
 else:
     output_alignment = alignment_lines_lists[-1][-1]
-output_file_path = "/local/musaeed/NPIDRC/align/alignments_voting.txt"
+output_file_path = "/PATH_TO/NPIDRC/align/alignments_voting.txt"
 with open(output_file_path, "w", encoding="utf-8") as f:
     f.write(output_alignment + "\n")
 print(f"Generated 'alignments_voting.txt' with the selected alignment: {output_alignment}")

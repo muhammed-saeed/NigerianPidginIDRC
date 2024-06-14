@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-file_path = "/local/musaeed/NPIDRC/NaijaDiscoDataset/dataset/annotations_final_with_utt_withPidgin.csv"
+file_path = "/PATH_TO/NPIDRC/NaijaDiscoDataset/dataset/annotations_final_with_utt_withPidgin.csv"
 df = pd.read_csv(file_path)
 pdtb_mapping = {
     "Temporal.Synchronous": "Temporal.Synchronous",
@@ -88,7 +88,7 @@ dfImpEnt['FileNumber'] = dfImpEnt.index
 dfImpEnt['Section'] = 22
 dfImpEnt["Conn2SemClass2"] = np.NaN
 dfImpEnt["ConnHeadSemClass2"] = np.NaN
-dfImpEnt.to_csv("/local/musaeed/NPIDRC/NaijaDiscoDataset/dataset/Mapped/mappedSenses/ImplicitEntrelRealPidginDiscoPromptToEval.csv", index=False)
+dfImpEnt.to_csv("/PATH_TO/NPIDRC/NaijaDiscoDataset/dataset/Mapped/mappedSenses/ImplicitEntrelRealPidginDiscoPromptToEval.csv", index=False)
 def apply_fullrawtext_logic(df):
     df['Arg1_FirstSpanStart'] = df['Arg1_SpanList'].apply(extract_first_span_start)
     df['Arg2_FirstSpanStart'] = df['Arg2_SpanList'].apply(extract_first_span_start)
@@ -103,7 +103,7 @@ def apply_fullrawtext_logic(df):
         full_text_list.append(full_text)
     df['FullRawText'] = full_text_list
     return df
-file_path = "/local/musaeed/NPIDRC/NaijaDiscoDataset/dataset/translatedToEnglish/NaijaDiscoTranslatedData.csv"
+file_path = "/PATH_TO/NPIDRC/NaijaDiscoDataset/dataset/translatedToEnglish/NaijaDiscoTranslatedData.csv"
 dfEN = pd.read_csv(file_path)
 dfEN['NP_rs1'] = dfEN['ConnHeadSemClass1']
 dfEN['NP_rs2'] = dfEN['Conn2SemClass1']
@@ -136,4 +136,4 @@ dfENImpEnt['FileNumber'] = dfENImpEnt.index
 dfENImpEnt['Section'] = 22
 dfENImpEnt["Conn2SemClass2"] = np.NaN
 dfENImpEnt["ConnHeadSemClass2"] = np.NaN
-dfENImpEnt.to_csv("/local/musaeed/NPIDRC/NaijaDiscoDataset/dataset/Mapped/mappedSenses/TranslatedPidginToEnglishImplicitEntRelDiscoPromptToEval.csv", index=False)
+dfENImpEnt.to_csv("/PATH_TO/NPIDRC/NaijaDiscoDataset/dataset/Mapped/mappedSenses/TranslatedPidginToEnglishImplicitEntRelDiscoPromptToEval.csv", index=False)

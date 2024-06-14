@@ -33,9 +33,9 @@ def train_t5_model(train_data_path, checkpoint_path, wandb_project, best_model, 
     model.train_model(train_df)
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Train a T5 Model.")
-    parser.add_argument("--train_data_path", default="/local/musaeed/NPIDRC/dev/data/promptEngineeringNoDevNorTestupdated_file.tsv",
+    parser.add_argument("--train_data_path", default="/PATH_TO/NPIDRC/dev/data/promptEngineeringNoDevNorTestupdated_file.tsv",
                         help="Path to the training data file in TSV format.")
-    parser.add_argument("--checkpoint_path", default="/local/musaeed/NPIDRC/t5_translation/newPhrasecheckpoint16Batch",
+    parser.add_argument("--checkpoint_path", default="/PATH_TO/NPIDRC/t5_translation/newPhrasecheckpoint16Batch",
                         help="Path to the checkpoint directory.")
     parser.add_argument("--wandb_project", default="Tony 1, 16 batch prefix translate English to Nigerian Pidgin",
                         help="Name of project in Weights & Biases.")

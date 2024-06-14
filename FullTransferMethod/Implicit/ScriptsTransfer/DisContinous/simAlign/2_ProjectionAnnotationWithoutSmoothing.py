@@ -3,12 +3,12 @@ import numpy as np
 import pandas as pd
 from datetime import datetime
 from pdtb2 import CorpusReader
-df = pd.read_csv('/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/DisContinousImplicitpdtb2ExtractedWithPostProecessingTranslation.csv', low_memory=False)
-with open('/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/discontinous/textfiles/simalign/DiscontinousImpEntrelenglish.txt', 'r') as f:
+df = pd.read_csv('/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/DisContinousImplicitpdtb2ExtractedWithPostProecessingTranslation.csv', low_memory=False)
+with open('/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/discontinous/textfiles/simalign/DiscontinousImpEntrelenglish.txt', 'r') as f:
     english_texts = f.readlines()
-with open("/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/discontinous/textfiles/simalign/DiscontinousImpEntrelpidgin.txt", "r") as f:
+with open("/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/discontinous/textfiles/simalign/DiscontinousImpEntrelpidgin.txt", "r") as f:
     pcm_texts = f.readlines()
-with open("/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/discontinous/textfiles/simalign/filtered_alignmentsPCM2EN.txt", "r") as f:
+with open("/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/discontinous/textfiles/simalign/filtered_alignmentsPCM2EN.txt", "r") as f:
     alignment_data = [line.strip().split() for line in f]
 def get_word_indices_from_raw_text(ArgConnRaw_text, full_text):
     start_char_idx = full_text.find(ArgConnRaw_text)
@@ -45,13 +45,13 @@ def get_aligned_indicesEn2PCM(start_idx, end_idx, alignment):
 def extract_words_from_indices(word_indices, text):
     words = text.split()
     return ' '.join(words[idx] for idx in word_indices)
-dfprocess = pd.read_csv('/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/DisContinousImplicitpdtb2ExtractedWithPostProecessingTranslation.csv', low_memory=False)
+dfprocess = pd.read_csv('/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/DisContinousImplicitpdtb2ExtractedWithPostProecessingTranslation.csv', low_memory=False)
 dfprocess['Arg1_RawText'] = dfprocess['Arg1_RawTextExtracted']
 dfprocess['Arg2_RawText'] = dfprocess['Arg2_RawTextExtracted']
 dfprocess['FullRawText'] = dfprocess['FullRawTextExtracted']
-dfprocess.to_csv("/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/DisContinousImplicitpdtb2ExtractedWithPostProecessingTranslationForCode.csv", index=False)
-df = pd.read_csv("/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/DisContinousImplicitpdtb2ExtractedWithPostProecessingTranslationForCode.csv", low_memory=False)
-corpus_reader = CorpusReader('/local/musaeed/pdtb2.csv')
+dfprocess.to_csv("/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/DisContinousImplicitpdtb2ExtractedWithPostProecessingTranslationForCode.csv", index=False)
+df = pd.read_csv("/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/DisContinousImplicitpdtb2ExtractedWithPostProecessingTranslationForCode.csv", low_memory=False)
+corpus_reader = CorpusReader('/PATH_TO/pdtb2.csv')
 arg1_rawtexts = []
 arg2_rawtexts = []
 connective_rawtexts = []
@@ -139,7 +139,7 @@ for idx, row in df.iterrows():
                 df.at[idx, 'Connective_RawTextPCM_Alignment'] = "ALIGNMENT Error"
             else:
                 df.at[idx, 'Connective_RawTextPCM_Alignment'] = extract_words_from_indices(pcm_indices_connective, pcm_texts[idx])
-variants_df = pd.read_csv("/local/musaeed/NPIDRC/FullTransferMethod/variants.csv")
+variants_df = pd.read_csv("/PATH_TO/NPIDRC/FullTransferMethod/variants.csv")
 def find_variant1(connective_rawtext):
     for i in range(1, 8):
         et_column = f"ET{i}" 
@@ -157,7 +157,7 @@ for idx, row in df.iterrows():
         if variant1 is not None:
             df.at[idx, 'Connective_RawTextPCM_Alignment'] = variant1
 current_date = datetime.now().strftime("%Y%m%d")
-folder_path = f'/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/discontinous/projectedFiles/simalign/{current_date}'
+folder_path = f'/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/discontinous/projectedFiles/simalign/{current_date}'
 if not os.path.exists(folder_path):
     os.makedirs(folder_path)
 print(f"Folder '{folder_path}' has been created.")
@@ -169,7 +169,7 @@ ARG2_RawText = df['Arg2_RawText']
 English_Fulltext = df['FullRawText']
 Relation = df['Relation']
 PidginFullText = df['FullRawTextPCM']
-combined_path = f'/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/discontinous/projectedFiles/simalign/{current_date}/combined'
+combined_path = f'/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/discontinous/projectedFiles/simalign/{current_date}/combined'
 value_counts = df['Connective_RawTextPCM_Alignment'].value_counts()
 df.to_csv(f'{folder_path}/pdtb2_pcm_alignment_naijaLex_soft.csv', index=False)
 combined_df = pd.DataFrame({

@@ -5,10 +5,10 @@ model_args.max_length = 192
 model_args.length_penalty = 1
 model_args.num_beams = 5
 model_args.eval_batch_size = 32
-model_output_dir = "/local/musaeed/BESTT5TranslationModel"
-model_output_dir = "/local/musaeed/checkpoint-79772-epoch-11"
+model_output_dir = "/PATH_TO/BESTT5TranslationModel"
+model_output_dir = "/PATH_TO/checkpoint-79772-epoch-11"
 model = T5Model("t5", model_output_dir, args=model_args)
-df = pd.read_csv("/local/musaeed/NPIDRC/NaijaDiscoDataset/dataset/annotations_final_with_utt_withPidgin.csv", low_memory=False)
+df = pd.read_csv("/PATH_TO/NPIDRC/NaijaDiscoDataset/dataset/annotations_final_with_utt_withPidgin.csv", low_memory=False)
 def prepare_translation(texts):
     translations = []
     indices = []
@@ -28,4 +28,4 @@ def reinsert_translations(original_list, translations, indices):
     return translated_full
 df['Arg1English_Translated'] = reinsert_translations(df['Arg1_RawText'], Arg1_translated, Arg1_indices)
 df['Arg2English_Translated'] = reinsert_translations(df['Arg2_RawText'], Arg2_translated, Arg2_indices)
-df.to_csv("/local/musaeed/NPIDRC/NaijaDiscoDataset/dataset/translatedToEnglish/NaijaDiscoTranslatedDataWithoutDevTestModdel.csv", index=False)
+df.to_csv("/PATH_TO/NPIDRC/NaijaDiscoDataset/dataset/translatedToEnglish/NaijaDiscoTranslatedDataWithoutDevTestModdel.csv", index=False)

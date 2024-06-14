@@ -88,10 +88,10 @@ if args.dataset == "ji":
     num_classes = 11 
     Processor = PDTB2Processor(num_labels=num_classes)
     
-    data_dir = "/local/musaeed/DiscoPrompt/PDTB2-Imp"
+    data_dir = "/PATH_TO/DiscoPrompt/PDTB2-Imp"
     
     
-    pdtb2_df = pd.read_csv("/local/musaeed/pdtb2_english.csv", low_memory=False)
+    pdtb2_df = pd.read_csv("/PATH_TO/pdtb2_english.csv", low_memory=False)
 
     
     train_sections = [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
@@ -585,5 +585,5 @@ print(final_test_Acc_4class)
 print("4Class - Testing F1 score")
 print(final_test_F1_score_4class)
 
-with open(f"{result_file}", "a") as fout:
+with open(f"{result_file}", "w") as fout:
     fout.write(content_write)

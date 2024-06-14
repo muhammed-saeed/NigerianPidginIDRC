@@ -24,10 +24,10 @@ def prepare_translation_datasets(data_path):
         data.append(["translate pcm to english", pcm, english])
         data.append(["translate english to pcm", english, pcm])
     dev_df =  pd.DataFrame(data, columns=["prefix", "input_text", "target_text"])
-    with open("/local/musaeed/Naija-Pidgin/t5_translation/data/trainValAugmentationAppendNew/pcmAugment.txt", "r", encoding="utf-8") as f:
+    with open("/PATH_TO/Naija-Pidgin/t5_translation/data/trainValAugmentationAppendNew/pcmAugment.txt", "r", encoding="utf-8") as f:
         pcm_text = f.readlines()
         pcm_text = [text.strip("\n") for text in pcm_text]
-    with open("/local/musaeed/Naija-Pidgin/t5_translation/data/trainValAugmentationAppendNew/enAugment.txt", "r") as f:
+    with open("/PATH_TO/Naija-Pidgin/t5_translation/data/trainValAugmentationAppendNew/enAugment.txt", "r") as f:
         english_text = f.readlines()
         english_text = [text.strip("\n") for text in english_text]
     data = []
@@ -35,10 +35,10 @@ def prepare_translation_datasets(data_path):
         data.append(["translate pcm to english", pcm, english])
         data.append(["translate english to pcm", english, pcm])
     augDf =  pd.DataFrame(data, columns=["prefix", "input_text", "target_text"])
-    with open("/local/musaeed/Naija-Pidgin/Treebank_test/testing_Data/pcm_parrellel.txt", "r", encoding="utf-8") as f:
+    with open("/PATH_TO/Naija-Pidgin/Treebank_test/testing_Data/pcm_parrellel.txt", "r", encoding="utf-8") as f:
         pcm_text = f.readlines()
         pcm_text = [text.strip("\n") for text in pcm_text]
-    with open("/local/musaeed/Naija-Pidgin/Treebank_test/testing_Data/en_parrellel.txt", "r") as f:
+    with open("/PATH_TO/Naija-Pidgin/Treebank_test/testing_Data/en_parrellel.txt", "r") as f:
         english_text = f.readlines()
         english_text = [text.strip("\n") for text in english_text]
     data = []
@@ -67,10 +67,10 @@ def prepare_translation_datasets(data_path):
     for pcm, english in zip(pcm_text, english_text):
         data.append(["translate pcm to english", pcm, english])
         data.append(["translate english to pcm", english, pcm])
-    with open("/local/musaeed/Naija-Pidgin/t5_translation/data/trainValAugmentationAppendNew/testpcmAugment.txt", "r", encoding="utf-8") as f:
+    with open("/PATH_TO/Naija-Pidgin/t5_translation/data/trainValAugmentationAppendNew/testpcmAugment.txt", "r", encoding="utf-8") as f:
         pcm_text = f.readlines()
         pcm_text = [text.strip("\n") for text in pcm_text]
-    with open("/local/musaeed/Naija-Pidgin/t5_translation/data/trainValAugmentationAppendNew/testenAugment.txt", "r") as f:
+    with open("/PATH_TO/Naija-Pidgin/t5_translation/data/trainValAugmentationAppendNew/testenAugment.txt", "r") as f:
         english_text = f.readlines()
         english_text = [text.strip("\n") for text in english_text]
     eval_df = pd.DataFrame(data, columns=["prefix", "input_text", "target_text"])

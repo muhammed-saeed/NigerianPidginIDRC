@@ -29,7 +29,7 @@ def get_aligned_indices(start_idx, end_idx, alignment):
 def extract_words_from_indices(word_indices, text):
     words = text.split()
     return ' '.join(words[idx] for idx in word_indices)
-corpus_reader = CorpusReader('/local/musaeed/pdtb2.csv')
+corpus_reader = CorpusReader('/PATH_TO/pdtb2.csv')
 arg1_rawtexts = []
 arg2_rawtexts = []
 connective_rawtexts = []

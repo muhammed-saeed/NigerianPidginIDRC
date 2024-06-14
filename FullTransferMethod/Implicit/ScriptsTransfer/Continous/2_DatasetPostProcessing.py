@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv("/local/musaeed/NPIDRC/FullTransferMethod/Implicit/projectedDataset/Continous/PDTB2TranslatedData/local/musaeed/NPIDRC/FullTransferMethod/Implicit/projectedDataset/Continous/PDTB2TranslatedData.csv", low_memory=False)
+df = pd.read_csv("/PATH_TO/NPIDRC/FullTransferMethod/Implicit/projectedDataset/Continous/PDTB2TranslatedData/PATH_TO/NPIDRC/FullTransferMethod/Implicit/projectedDataset/Continous/PDTB2TranslatedData.csv", low_memory=False)
 df['FullRawText'] = df['FullRawTextPidginPostProcessed']
 chars_to_strip = ' :,"|?()'
 df['Arg1_Translated'] = df['Arg1_Translated'].str.strip().str.lstrip(chars_to_strip)
@@ -13,4 +13,4 @@ print(df[['Arg1_Translated', 'Arg2_Translated', 'FullRawTextPidginContinous']].h
 df['Arg1_RawText']  = df['Arg1_Translated']
 df['Arg2_RawText'] = df['Arg2_Translated']
 df['FullRawText'] = df['FullRawTextPidginContinous']
-df.to_csv("/local/musaeed/NPIDRC/FullTransferMethod/Implicit/projectedDataset/Continous/pdtb2ImplicitEntrelContinousProcessed.csv", index=False)
+df.to_csv("/PATH_TO/NPIDRC/FullTransferMethod/Implicit/projectedDataset/Continous/pdtb2ImplicitEntrelContinousProcessed.csv", index=False)

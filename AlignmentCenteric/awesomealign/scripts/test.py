@@ -2,7 +2,7 @@ from tqdm import tqdm
 from simalign import SentenceAligner
 from transformers import RobertaTokenizerFast
 import concurrent.futures
-model_checkpoint = "/local/musaeed/checkpoint-53500"
+model_checkpoint = "/PATH_TO/checkpoint-53500"
 tokenizer = RobertaTokenizerFast.from_pretrained(model_checkpoint, add_prefix_space=True)
 tokenizer.save_pretrained(model_checkpoint)
 k = 100

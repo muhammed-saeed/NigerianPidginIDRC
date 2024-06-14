@@ -1,6 +1,6 @@
 import pandas as pd
-df_discontinous = pd.read_csv('/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/discontinous/toBeMerged/awesome/pdtb2ImplicitEntrelDiscontiouswithoutSmoothing.csv', low_memory=False)
-df_continous = pd.read_csv('/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Continous/pdtb2ImplicitEntrelContinousProcessed.csv', low_memory=False)
+df_discontinous = pd.read_csv('/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/discontinous/toBeMerged/awesome/pdtb2ImplicitEntrelDiscontiouswithoutSmoothing.csv', low_memory=False)
+df_continous = pd.read_csv('/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Continous/pdtb2ImplicitEntrelContinousProcessed.csv', low_memory=False)
 selected_columns = [
     "Relation", "Section", "FileNumber", "SentenceNumber", 
     "ConnHeadSemClass1", "ConnHeadSemClass2", 
@@ -17,4 +17,4 @@ for col in selected_columns[:-1]:
 df_merged_sorted = df_merged.sort_values(by='original_index')
 df_merged_sorted.drop(columns=['original_index'], inplace=True)
 print(df_merged_sorted.head())
-df_merged_sorted.to_csv("/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Merged&Processed/awesome/pdtb2PidginImplicitEntrel.csv", index=False)
+df_merged_sorted.to_csv("/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Merged&Processed/awesome/pdtb2PidginImplicitEntrel.csv", index=False)

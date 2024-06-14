@@ -23,5 +23,5 @@ def split_data_into_chunks(english_file, pcm_file, chunks_folder, num_chunks=20)
         save_chunk(pcm_chunk, os.path.join(chunks_folder, f"pcm_chunk_{i+1}.txt"))
 english_file = "align/giza-py/extratedPCMAFterAlignments/english.txt"
 pcm_file = "align/giza-py/extratedPCMAFterAlignments/pcm.txt"
-chunks_folder = "/local/musaeed/NPIDRC/align/simAlgin/data/chunks20"
+chunks_folder = "/PATH_TO/NPIDRC/align/simAlgin/data/chunks20"
 split_data_into_chunks(english_file, pcm_file, chunks_folder)

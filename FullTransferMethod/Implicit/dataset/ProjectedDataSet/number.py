@@ -3,11 +3,11 @@ def count_implicit(file_path):
     df = pd.read_csv(file_path, low_memory=False)
     implicit_count = df[df["Relation"] == "Implicit"].shape[0]
     return implicit_count
-awesome_file = "/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Merged&Processed/awesome/pdtb2PidginImplicitEntrel.csv"
-giza_file = "/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Merged&Processed/gizapy/pdtb2PidginImplicitEntrel.csv"
-pft_file = "/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Merged&Processed/pft/pdtb2PidginImplicitEntrel.csv"
-simAlign_file = "/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Merged&Processed/simAlign/pdtb2PidginImplicitEntrel.csv"
-cat_file = "/local/musaeed/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Merged&Processed/simAlignRoBERTa/pdtb2PidginImplicitEntrel.csv"
+awesome_file = "/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Merged&Processed/awesome/pdtb2PidginImplicitEntrel.csv"
+giza_file = "/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Merged&Processed/gizapy/pdtb2PidginImplicitEntrel.csv"
+pft_file = "/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Merged&Processed/pft/pdtb2PidginImplicitEntrel.csv"
+simAlign_file = "/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Merged&Processed/simAlign/pdtb2PidginImplicitEntrel.csv"
+cat_file = "/PATH_TO/NPIDRC/FullTransferMethod/Implicit/dataset/ProjectedDataSet/Merged&Processed/simAlignRoBERTa/pdtb2PidginImplicitEntrel.csv"
 awesome_count = count_implicit(awesome_file)
 giza_count = count_implicit(giza_file)
 pft_count = count_implicit(pft_file)
