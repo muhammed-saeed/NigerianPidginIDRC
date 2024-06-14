@@ -36,7 +36,7 @@ CUDA_VISIBLE_DEVICES=1 python3 evaluate.py \
 
 The other direction includes the creation of the Nigerian Pidgin NP Penn Discourse Treebank (NP-PDTB)-like dataset. To achieve the generation of the NP-PDTB, we first started by using an off-the-shelf translation model that needs this setup:
 
-First one is using the \cite{lin23low} engine, from  then install the requirments and translate the English pdtb2 into Pidgin, 
+First one is using the \cite{lin23low} engine, from  then install the requirements and translate the English pdtb2 into Pidgin, 
 ```bash
 pip install -r requirements.txt
 ```
