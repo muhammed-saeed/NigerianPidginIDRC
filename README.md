@@ -75,7 +75,7 @@ python/PATH_TO/NigerianPidginIDRC/MachineTranslation/PLM4MT/scripts/python/1_dat
 bash /PATH_TO/NigerianPidginIDRC/MachineTranslation/PLM4MT/scripts/bash/train.sh
 ``` 
 
-Our results have found that \cite{lin2023low}
+Our results have found that \cite{lin2023low} translation model is better than both the PLM4MT and the LLama2 and then we have used the \cite{lin2023low} model for our research
 
 For the creation of the dataset, we have alignment-based and full transfer-based methods.
 
