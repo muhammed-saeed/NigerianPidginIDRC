@@ -7,6 +7,17 @@ The work is about Implicit Discourse Relation classification for the Nigerian Pi
 
 Our two approaches are zeroshot and Cross Lingual Fine-Tuning. For the zeroshot approach, we start by training a state-of-the-art model in English using the following code:
 
+We are performing 4-way and 11-way classification, and here are the sense levels we are using 
+
+rels_11 = [
+        "Comparison.Concession", "Comparison.Contrast",
+        "Contingency.Cause", "Contingency.Pragmatic cause.Justification",
+        "Expansion.Alternative", "Expansion.Conjunction", "Expansion.Instantiation", "Expansion.List", "Expansion.Restatement",
+        "Temporal.Asynchronous", "Temporal.Synchrony"
+    ]
+
+rels_4 = ["Comparison", "Contingency", "Expansion", "Temporal"]
+
 
 ```python
 CUDA_VISIBLE_DEVICES=6 python /PATH_TO/DiscoPrompt/DiscoPrompt.py \
