@@ -1,6 +1,6 @@
 ```markdown
 # NigerianPidginIDRC
-
+DiscoPrompt English Base/Large checkpoints and SimAlign and Awesome checkpoints CaFT are found in the drive link https://drive.google.com/drive/folders/19cVPmPJC1Uwij66oZUN7BT2QUFkgAOIk?usp=sharing
 ## Description
 
 The work is about Implicit Discourse Relation classification for the Nigerian Pidgin language. Nigerian Pidgin is spoken by about 100 million people yet is considered a low-resource language. Our focus is on the discourse relation classification, particularly in the implicit setting.
